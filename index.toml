@@ -154,7 +154,7 @@ hash = "0b05a8814f09fead55b1901b7efab7d3ab87227ea3fc6b5e65a6197261832710"
 
 [[files]]
 file = "config/biomeswevegone/world_generation.json"
-hash = "4e644f8324221022aed71d39b3d56a6cd189d5bd3f67c4aa72b889fb208421da"
+hash = "6fb6ff3e2cb4d1c47431b2e9fb48090fd985e0b43777949ec0c346cda85e532d"
 
 [[files]]
 file = "config/capture_xp.json"
@@ -578,7 +578,7 @@ hash = "9bf84d9dec7f32977465029b712f07964b05049605926e3400fabaffe9ca51aa"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "9974eee8d896a439e4b4e2e820aa1c1f1daae11ae91c93398f66c8d35a54a539"
+hash = "60d89fa8bc7f031f54d1de065ca652eb4ca7dbfc16188d9393e62fdd33cc6745"
 
 [[files]]
 file = "config/fallingleaves.json"
@@ -7710,75 +7710,75 @@ hash = "8fd6d6f9ec5a9c21690923f5dc89ae973f6f9070fd3b81d0820f9e0bf2179af2"
 
 [[files]]
 file = "config/unchained/capture/hiddenCaptureBooster.json"
-hash = "adb6aec97b88963bd6905a3d36fea5fb2e8cee2714d20f940d8716ada2dbb934"
+hash = "3d1c44e3d906b852726ef4edc31799e11a19c3fe9f4ee99a87372b618fc312cb"
 
 [[files]]
 file = "config/unchained/capture/ivCaptureBooster.json"
-hash = "5d1c24d4f1a27065b2dec4b9ad2b73a68765ba43a93fcfa4ac4729555319dd7a"
+hash = "5bfeec628998805b083b0578c9f3a73584675f4307be2e753a695d3d28f5d1fe"
 
 [[files]]
 file = "config/unchained/capture/shinyCaptureBooster.json"
-hash = "5d1c24d4f1a27065b2dec4b9ad2b73a68765ba43a93fcfa4ac4729555319dd7a"
+hash = "5bfeec628998805b083b0578c9f3a73584675f4307be2e753a695d3d28f5d1fe"
 
 [[files]]
 file = "config/unchained/egg/hiddenEggBooster.json"
-hash = "2883137012597929bb208000c69129ad0938f1e08d16caccfeda9966802deb8d"
+hash = "1101e13158cdf17900f03834164bbc0c5d43bc1835263021a94a7fc7b7142430"
 
 [[files]]
 file = "config/unchained/egg/ivEggBooster.json"
-hash = "37f20a48f5fad90f53d0e36bd2a65bcba074ca17aaf1d9ee3636a643071fcd2a"
+hash = "b20ae57cdffeacd980fde170b571adf1c1a7914638912b7f2c1fec6179a3347b"
 
 [[files]]
 file = "config/unchained/egg/shinyEggBooster.json"
-hash = "29ba6282a7e828d17e01dcbb2b201c3cfdb88c7945695c53977550dc6b5aa77a"
+hash = "66e6e0c7a96f38d7f4c4755f0549c1caed6d0c24f2fcba8439579dd24d63f347"
 
 [[files]]
 file = "config/unchained/fish/hiddenFishBooster.json"
-hash = "101fed0840f51092ff7616ec386962694e93117fb0be9fc0e2b1e8e4f6f49f74"
+hash = "e8b796f28954ae2600e84fd9ebc98890373f42e7e3c2ed334f546dfe6e9f2e0f"
 
 [[files]]
 file = "config/unchained/fish/ivFishBooster.json"
-hash = "d05d348a408fc5187dc29220473ec067a9b07e17d944d8b8616e396f7e00b475"
+hash = "79b6ca37e248f43afd9827805b4a830a92f696de7ec6e3d63672f69533c7bcca"
 
 [[files]]
 file = "config/unchained/fish/shinyFishBooster.json"
-hash = "953746d905a1f94fa4047d2b8d3163df94a7dbfc298f2d4f8aa8806f9a1471e1"
+hash = "51ffc51f0995a46e21a8dda906f7c34c897d43d8fe15710a1061dbb62371f07b"
 
 [[files]]
 file = "config/unchained/resurrection/hiddenRezBooster.json"
-hash = "2edc12bbd40aaa4a71013e30d53e7f60cb599905f5dc200f81165376ef883c97"
+hash = "6edd0a023c88c3097c1d931da995664d896eaf5bca35a382f05ca61461a74987"
 
 [[files]]
 file = "config/unchained/resurrection/ivRezBooster.json"
-hash = "4363c34c6d134044fb4b786276d87a79ba81c60b86c5f4ffc9522c9837e78b09"
+hash = "38db21471c8ac40597e02549641214a42c9c39b0ea6907aaf5f2b9c0be192475"
 
 [[files]]
 file = "config/unchained/resurrection/shinyRezBooster.json"
-hash = "56715de764b5c86e7e1e07f79e6643bfe2f2596da87f12453320dba5de3a3466"
+hash = "6f1340b4b82c57a3fb5d761ff6b897ff101213b909be59401e64568470fadf26"
 
 [[files]]
 file = "config/unchained/snack/hiddenSnackBooster.json"
-hash = "101fed0840f51092ff7616ec386962694e93117fb0be9fc0e2b1e8e4f6f49f74"
+hash = "e8b796f28954ae2600e84fd9ebc98890373f42e7e3c2ed334f546dfe6e9f2e0f"
 
 [[files]]
 file = "config/unchained/snack/ivSnackBooster.json"
-hash = "d05d348a408fc5187dc29220473ec067a9b07e17d944d8b8616e396f7e00b475"
+hash = "79b6ca37e248f43afd9827805b4a830a92f696de7ec6e3d63672f69533c7bcca"
 
 [[files]]
 file = "config/unchained/snack/shinySnackBooster.json"
-hash = "152de9b94a572c557f00f56bf8aa960f61dd39f9910de7c76f27e199c4510493"
+hash = "ec9fbfa32f8a32b69dabad9aba6a4e6013c272772e2cabc59dc4855e4f7161de"
 
 [[files]]
 file = "config/unchained/spawn/hiddenSpawnBooster.json"
-hash = "101fed0840f51092ff7616ec386962694e93117fb0be9fc0e2b1e8e4f6f49f74"
+hash = "e8b796f28954ae2600e84fd9ebc98890373f42e7e3c2ed334f546dfe6e9f2e0f"
 
 [[files]]
 file = "config/unchained/spawn/ivSpawnBooster.json"
-hash = "d05d348a408fc5187dc29220473ec067a9b07e17d944d8b8616e396f7e00b475"
+hash = "79b6ca37e248f43afd9827805b4a830a92f696de7ec6e3d63672f69533c7bcca"
 
 [[files]]
 file = "config/unchained/spawn/shinySpawnBooster.json"
-hash = "152de9b94a572c557f00f56bf8aa960f61dd39f9910de7c76f27e199c4510493"
+hash = "ec9fbfa32f8a32b69dabad9aba6a4e6013c272772e2cabc59dc4855e4f7161de"
 
 [[files]]
 file = "config/vanilla_structures/placement_structure_config.json5"

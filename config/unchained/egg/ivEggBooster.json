@@ -17,5 +17,5 @@
   "lockToPlayer": false,
   "blacklist": [],
   "whitelist": [],
-  "notifyPlayer": true
+  "notifyPlayer": false
 }

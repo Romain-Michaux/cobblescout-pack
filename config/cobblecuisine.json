@@ -293,9 +293,9 @@
       "nonWeightMultiplier": 0.25
     },
     "undiscovered": {
-      "spawnWeightMultiplier": 2.5,
-      "seasoningWeightMultiplier": 0.5,
-      "nonWeightMultiplier": 0.25
+      "spawnWeightMultiplier": 1.0,
+      "seasoningWeightMultiplier": 0.0,
+      "nonWeightMultiplier": 1.0
     },
     "water1": {
       "spawnWeightMultiplier": 2.5,

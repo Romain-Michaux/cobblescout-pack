@@ -1,0 +1,15 @@
+{
+ "text.autoconfig.betterendisland-fabric-1_21.title": "YUNG's Better End Island",
+ "text.autoconfig.betterendisland-fabric-1_21.option.general.resummonedDragonDropsEgg": "Œuf à chaque réinvocation du dragon",
+ "text.autoconfig.betterendisland-fabric-1_21.option.general.resummonedDragonDropsEgg.@Tooltip": "Indique si l'Ender Dragon lâche un œuf à chaque fois qu'il est vaincu",
+ "text.autoconfig.betterendisland-fabric-1_21.option.general.useVanillaSpawnPlatform": "Plateforme d'obsidienne vanilla",
+ "text.autoconfig.betterendisland-fabric-1_21.option.general.useVanillaSpawnPlatform.@Tooltip": "Indique si la plateforme d'obsidienne vanilla doit apparaître dans l'End à la place de la plateforme remaniée",
+ "text.autoconfig.betterendisland-fabric-1_21.option.general.useVanillaEndGateways": "Portails de l'End vanilla",
+ "text.autoconfig.betterendisland-fabric-1_21.option.general.useVanillaEndGateways.@Tooltip": "Indique si les portails de l'End vanilla doivent apparaître dans l'End à la place des portails remaniés",
+ "text.autoconfig.betterendisland-fabric-1_21.option.general.playBellSound": "Jouer le son de cloche",
+ "text.autoconfig.betterendisland-fabric-1_21.option.general.playBellSound.@Tooltip": "Indique si le son de cloche doit retentir avant la première invocation de l'Ender Dragon et lors des réinvocations",
+ "text.autoconfig.betterendisland-fabric-1_21.option.general.spawnCentralTowerInitially": "Tour centrale dès le départ",
+ "text.autoconfig.betterendisland-fabric-1_21.option.general.spawnCentralTowerInitially.@Tooltip": "Indique si la tour centrale doit apparaître dans l'End lors de la première génération du monde",
+ "text.autoconfig.betterendisland-fabric-1_21.option.general.spawnCentralTowerOnResummon": "Tour centrale à la réinvocation",
+ "text.autoconfig.betterendisland-fabric-1_21.option.general.spawnCentralTowerOnResummon.@Tooltip": "Indique si la tour centrale doit réapparaître dans l'End lorsque l'Ender Dragon est réinvoqué"
+}

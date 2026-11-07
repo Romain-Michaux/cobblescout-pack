@@ -1,0 +1,25 @@
+{
+  "id": "cobbleworkers:archaeologist",
+  "cooldown": 480,
+  "cooldown_scope": "PER_ENTITY",
+  "requirements": {
+    "types": [
+      "ground"
+    ]
+  },
+  "components": [
+    {
+      "type": "cobbleworkers:navigation",
+      "target": {
+        "block": "#cobbleworkers:archaeology_blocks",
+        "requires_air_above": true
+      }
+    },
+    {
+      "type": "cobbleworkers:loot_generation",
+      "loot_tables": [
+        "cobbleworkers:archaeology_treasure"
+      ]
+    }
+  ]
+}

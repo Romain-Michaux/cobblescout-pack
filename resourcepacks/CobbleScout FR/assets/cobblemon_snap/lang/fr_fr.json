@@ -1,0 +1,18 @@
+{
+ "itemGroup.cobblemon_snap": "Cobblemon Snap",
+ "item.cobblemon_snap.camera": "Appareil photo",
+ "item.cobblemon_snap.snapdex": "Snapdex",
+ "message.cobblemon_snap.no_pokemon": "Aucun Pokémon dans le cadre !",
+ "message.cobblemon_snap.new_species": "NOUVEAU ! %s photographié !",
+ "message.cobblemon_snap.new_high_score": "Nouvelle meilleure photo de %s !",
+ "message.cobblemon_snap.photo_captured": "Photo de %s : %d points",
+ "gui.cobblemon_snap.snapdex_title": "Snapdex",
+ "gui.cobblemon_snap.total_photos": "Photos au total : %d",
+ "gui.cobblemon_snap.species_photographed": "Espèces photographiées : %d",
+ "gui.cobblemon_snap.species_seen": "Espèces vues : %d",
+ "gui.cobblemon_snap.research_level": "Niveau de recherche : %d/5",
+ "gui.cobblemon_snap.best_score": "Meilleur score : %d",
+ "gui.cobblemon_snap.forms_discovered": "Formes découvertes",
+ "gui.cobblemon_snap.behaviors_captured": "Comportements immortalisés",
+ "gui.cobblemon_snap.biomes_recorded": "Biomes répertoriés"
+}

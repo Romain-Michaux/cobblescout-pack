@@ -1,0 +1,10 @@
+{
+ "midnightlib.midnightconfig.enum.ConfigButton.MODMENU": "§bModMenu",
+ "midnightlib.modrinth": "Modrinth",
+ "midnightlib.curseforge": "CurseForge",
+ "midnightlib.wiki": "Wiki",
+ "midnightconfig.colorChooser.title": "Choisir une couleur",
+ "midnightconfig.action.list_index": "Modification de la liste à l'index %s",
+ "midnightconfig.action.color_chooser": "Ouvrir le sélecteur de couleur",
+ "midnightconfig.action.file_chooser": "Ouvrir le sélecteur de fichier"
+}

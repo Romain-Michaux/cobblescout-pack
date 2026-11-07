@@ -1,0 +1,15 @@
+{
+ "betterdeserttemples.advancements.root.title": "YUNG's Better Desert Temples",
+ "betterdeserttemples.advancements.root.description": "Quelque part au fin fond du désert...",
+ "betterdeserttemples.advancements.temple_clear.title": "Sommeil éternel",
+ "betterdeserttemples.advancements.temple_clear.description": "Vaincre le Pharaon et libérer le temple de sa malédiction",
+ "betterdeserttemples.advancements.temple_entry.title": "Un tombeau ancien",
+ "betterdeserttemples.advancements.temple_entry.description": "Découvrir un temple du désert amélioré",
+ "Use /locate structure betterdeserttemples:desert_temple instead!": "Utilisez plutôt /locate structure betterdeserttemples:desert_temple !",
+ "text.autoconfig.betterdeserttemples-fabric-1_21.title": "YUNG's Better Desert Temples",
+ "text.autoconfig.betterdeserttemples-fabric-1_21.option.general.disableVanillaPyramids": "Désactiver les pyramides vanilla",
+ "text.autoconfig.betterdeserttemples-fabric-1_21.option.general.disableVanillaPyramids.@Tooltip": "Indique si les temples du désert vanilla doivent être désactivés.",
+ "text.autoconfig.betterdeserttemples-fabric-1_21.option.general.applyMiningFatigue": "Appliquer la fatigue de minage",
+ "text.autoconfig.betterdeserttemples-fabric-1_21.option.general.applyMiningFatigue.@Tooltip[0]": "Indique si la fatigue de minage est appliquée aux joueurs dans le temple",
+ "text.autoconfig.betterdeserttemples-fabric-1_21.option.general.applyMiningFatigue.@Tooltip[1]": "tant qu'il n'a pas été nettoyé."
+}

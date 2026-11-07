@@ -1,0 +1,1 @@
+{"name": {"translatable": "rctmod.trainer_name.ranger_katelyn_02d5", "literal": "Ranger Katelyn"}, "team": [{"species": "chansey", "gender": "FEMALE", "level": 56, "nature": "lonely", "ability": "serenegrace", "moveset": ["eggbomb", "defensecurl", "minimize", "softboiled"], "ivs": {"hp": 20, "atk": 20, "def": 20, "spa": 20, "spd": 20, "spe": 20}, "evs": {}}]}

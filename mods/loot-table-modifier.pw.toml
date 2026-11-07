@@ -1,0 +1,12 @@
+name = "Loot Table Modifier"
+filename = "loot-table-modifier-fabric-1.21.1-2.1.0+fabric+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/emvwKT0u/versions/vJtZdY4p/loot-table-modifier-fabric-1.21.1-2.1.0%2Bfabric%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "187df7ac2359df2c754c7a2e320473ada985fa347d6bccff34f0006435494597e3189cc46afec34a70d688e4ccdd8ebd98d12a8fbf0321ecc0848bff7484092e"
+
+[update.modrinth]
+mod-id = "emvwKT0u"
+version = "vJtZdY4p"

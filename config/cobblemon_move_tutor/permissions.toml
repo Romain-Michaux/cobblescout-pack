@@ -1,0 +1,8 @@
+#Permissions Config
+[permissionLevelsConfig]
+	#Permission level required to use the /movetutor command.
+	#Allowed Values: NONE, SPAWN_PROTECTION_BYPASS, CHEAT_COMMANDS_AND_COMMAND_BLOCKS, MULTIPLAYER_MANAGEMENT, ALL_COMMANDS
+	cmdMoveTutor = "ALL_COMMANDS"
+	#Permission level required to use the /movetutor command on other players.
+	#Allowed Values: NONE, SPAWN_PROTECTION_BYPASS, CHEAT_COMMANDS_AND_COMMAND_BLOCKS, MULTIPLAYER_MANAGEMENT, ALL_COMMANDS
+	cmdMoveTutor_other = "ALL_COMMANDS"

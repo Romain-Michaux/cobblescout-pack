@@ -1,0 +1,12 @@
+name = "Cobblemon: Lost Lore"
+filename = "lost_lore-fabric-3.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/49cNEVjn/versions/BIJlE96k/lost_lore-fabric-3.2.0.jar"
+hash-format = "sha512"
+hash = "ecb485d9592c7cf3c8d5e5fa2fc863c426bf34fcf0d2563c6f6ef0b3f466d9726c1cbb709bce33a59f021c3872ce08bbd1735919a2c0ecb07bc3f7aa6ae1e3d9"
+
+[update.modrinth]
+mod-id = "49cNEVjn"
+version = "BIJlE96k"

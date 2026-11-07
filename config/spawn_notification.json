@@ -1,0 +1,93 @@
+{
+  "broadcastRange": -1,
+  "playerLimit": -1,
+  "broadcastAcrossDimensions": false,
+  "dimensionBlacklist": [],
+  "dimensionWhitelist": [],
+  "matcherBlacklist": [],
+  "actionBar": false,
+  "baseColor": "GRAY",
+  "partColors": {
+    "spawn_notification:pokemon_species": "WHITE",
+    "spawn_notification:pokemon_form": "WHITE",
+    "spawn_notification:player_name": "WHITE",
+    "spawn_notification:biome": "WHITE",
+    "spawn_notification:dimension": "WHITE",
+    "spawn_notification:bucket": "WHITE",
+    "spawn_notification:coord_x": "WHITE",
+    "spawn_notification:coord_y": "WHITE",
+    "spawn_notification:coord_z": "WHITE"
+  },
+  "disabledSituations": [
+    "spawn_notification:ultra_rare/spawned",
+    "spawn_notification:ultra_rare/despawned",
+    "spawn_notification:ultra_rare/captured",
+    "spawn_notification:ultra_rare/fainted",
+    "spawn_notification:ultra_rare/died",
+    "spawn_notification:ultra_rare/fished",
+    "spawn_notification:ultra_rare/snacked",
+    "spawn_notification:shiny/spawned",
+    "spawn_notification:shiny/despawned",
+    "spawn_notification:shiny/captured",
+    "spawn_notification:shiny/fainted",
+    "spawn_notification:shiny/died",
+    "spawn_notification:shiny/fished",
+    "spawn_notification:shiny/snacked",
+    "spawn_notification:shiny/hatched",
+    "spawn_notification:shiny/resurrected",
+    "spawn_notification:paradox/spawned",
+    "spawn_notification:paradox/despawned",
+    "spawn_notification:paradox/captured",
+    "spawn_notification:paradox/fainted",
+    "spawn_notification:paradox/died",
+    "spawn_notification:paradox/fished",
+    "spawn_notification:paradox/snacked",
+    "spawn_notification:paradox/hatched",
+    "spawn_notification:paradox/resurrected",
+    "spawn_notification:ultra_beast/spawned",
+    "spawn_notification:ultra_beast/despawned",
+    "spawn_notification:ultra_beast/captured",
+    "spawn_notification:ultra_beast/fainted",
+    "spawn_notification:ultra_beast/died",
+    "spawn_notification:ultra_beast/fished",
+    "spawn_notification:ultra_beast/snacked",
+    "spawn_notification:ultra_beast/hatched",
+    "spawn_notification:ultra_beast/resurrected",
+    "spawn_notification:alpha/spawned",
+    "spawn_notification:alpha/despawned",
+    "spawn_notification:alpha/captured",
+    "spawn_notification:alpha/fainted",
+    "spawn_notification:alpha/died",
+    "spawn_notification:alpha/fished",
+    "spawn_notification:alpha/snacked",
+    "spawn_notification:alpha/resurrected"
+  ],
+  "disabledSegments": [],
+  "disabledSegmentsBySituation": [
+    {
+      "situations": [
+        "spawn_notification:*/captured",
+        "spawn_notification:*/fished",
+        "spawn_notification:*/resurrected",
+        "spawn_notification:*/hatched"
+      ],
+      "segments": [
+        "spawn_notification:coordinates",
+        "spawn_notification:biome",
+        "spawn_notification:dimension"
+      ]
+    },
+    {
+      "situations": [
+        "spawn_notification:*/despawned",
+        "spawn_notification:*/snacked",
+        "spawn_notification:*/spawned"
+      ],
+      "segments": [
+        "spawn_notification:player"
+      ]
+    }
+  ],
+  "ignoreSpectators": true,
+  "debug": false
+}

@@ -1,0 +1,12 @@
+name = "Cobblemon Move Tutor"
+filename = "cobblemon-move-tutor-fabric-1.6.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1AYwVfn9/versions/CmKE4PyZ/cobblemon-move-tutor-fabric-1.6.1.jar"
+hash-format = "sha512"
+hash = "67b4e68a0ce4f01a3661a9c530cc8425f73fe9e94fbfb78c5188dd4f3b8e669d6a73b81849482af2e4e335f47b6c9941e85a68c78ced1d3733cb2295079cee5d"
+
+[update.modrinth]
+mod-id = "1AYwVfn9"
+version = "CmKE4PyZ"

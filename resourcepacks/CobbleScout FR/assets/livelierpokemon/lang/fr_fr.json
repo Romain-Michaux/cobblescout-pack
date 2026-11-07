@@ -1,0 +1,17 @@
+{
+ "ability.livelierpokemon.baddreams": "Vous vous réveillez d'un cauchemar terrifiant...",
+ "ability.livelierpokemon.ballfetch": "%s a récupéré votre %s !",
+ "death.attack.bad_dreams": "%1$s a été tourmenté par des cauchemars.",
+ "death.attack.sandstorm": "%1$s a été balayé par la tempête de sable.",
+ "effect.livelierpokemon.paralysis": "Paralysie",
+ "effect.livelierpokemon.electric_terrain_effect": "Champ Électrifié",
+ "effect.livelierpokemon.grassy_terrain_effect": "Champ Herbu",
+ "effect.livelierpokemon.misty_terrain_effect": "Champ Brumeux",
+ "effect.livelierpokemon.psychic_terrain_effect": "Champ Psychique",
+ "text.autoconfig.livelierpokemon-client.title": "Configuration client de LivelierPokemon",
+ "text.autoconfig.livelierpokemon-client.category.weather": "Météo",
+ "text.autoconfig.livelierpokemon-client.option.SHOW_RAIN": "Afficher la pluie",
+ "text.autoconfig.livelierpokemon-client.option.SHOW_SANDSTORM": "Afficher la tempête de sable",
+ "text.autoconfig.livelierpokemon-client.option.SHOW_SNOW": "Afficher la neige",
+ "text.autoconfig.livelierpokemon-client.option.SHOW_SUN": "Afficher le soleil"
+}

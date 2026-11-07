@@ -1,0 +1,33 @@
+{
+  "actions": [
+    {
+      "type": "loot-table-modifier:pool_add",
+      "pools": [
+        {
+          "rolls": 1,
+          "bonus_rolls": 0,
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.05
+            }
+          ],
+          "entries": [
+            {
+              "type": "minecraft:item",
+              "name": "minecraft:trident"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "predicate": {
+    "type": "loot-table-modifier:table",
+    "identifiers": [
+      {
+        "regexPattern": "^(minecraft:chests/(shipwreck_treasure|underwater_ruin_big|buried_treasure)|betteroceanmonuments:chests/upper_side_chamber|mtr:ocean_temple_treasure|mvs:ocean_tower/treasure|mos:ruins/castle_treasure)$"
+      }
+    ]
+  }
+}

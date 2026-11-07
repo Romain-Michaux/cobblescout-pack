@@ -1,0 +1,1 @@
+{"name": {"translatable": "rctmod.trainer_name.beauty_lori_010b", "literal": "Beauty Lori"}, "team": [{"species": "exeggutor", "gender": "FEMALE", "level": 36, "nature": "calm", "ability": "chlorophyll", "moveset": ["hypnosis", "confusion", "psyshock", "eggbomb"], "ivs": {"hp": 10, "atk": 10, "def": 10, "spa": 10, "spd": 10, "spe": 10}, "evs": {}, "aspects": ["alolan"]}]}

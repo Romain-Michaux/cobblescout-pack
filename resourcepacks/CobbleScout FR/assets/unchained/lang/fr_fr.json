@@ -1,0 +1,20 @@
+{
+ "unchained.notification.hidden.spawn": "Votre chasse attire un %2$s %1$s doté de son talent caché !",
+ "unchained.notification.hidden.fish": "Votre partie de pêche remonte un %2$s %1$s doté de son talent caché !",
+ "unchained.notification.hidden.egg": "Votre aura bienveillante éveille le talent caché de votre %2$s %1$s !",
+ "unchained.notification.hidden.resurrection": "Votre maîtrise technique éveille le talent caché de votre %2$s %1$s ressuscité !",
+ "unchained.notification.hidden.capture": "Votre lien avec votre %2$s %1$s capturé révèle son talent caché !",
+ "unchained.notification.hidden.snack": "La qualité de votre en-cas attire un %2$s %1$s doté de son talent caché !",
+ "unchained.notification.iv.spawn": "Votre chasse attire un %2$s %1$s aux IV parfaits !",
+ "unchained.notification.iv.fish": "Votre partie de pêche remonte un %2$s %1$s aux IV parfaits !",
+ "unchained.notification.iv.egg": "Votre aura bienveillante éveille des IV parfaits chez votre %2$s %1$s !",
+ "unchained.notification.iv.resurrection": "Votre maîtrise technique éveille des IV parfaits chez votre %2$s %1$s ressuscité !",
+ "unchained.notification.iv.capture": "Votre lien avec votre %2$s %1$s capturé révèle des IV parfaits !",
+ "unchained.notification.iv.snack": "La qualité de votre en-cas attire un %2$s %1$s aux IV parfaits !",
+ "unchained.notification.shiny.spawn": "Votre chasse attire un %2$s %1$s chromatique !",
+ "unchained.notification.shiny.fish": "Votre partie de pêche remonte un %2$s %1$s chromatique !",
+ "unchained.notification.shiny.egg": "Votre aura bienveillante éveille un %2$s %1$s chromatique !",
+ "unchained.notification.shiny.resurrection": "Votre maîtrise technique éveille un %2$s %1$s chromatique ressuscité !",
+ "unchained.notification.shiny.capture": "Votre lien avec votre %2$s %1$s capturé révèle sa forme chromatique !",
+ "unchained.notification.shiny.snack": "La qualité de votre en-cas attire un %2$s %1$s chromatique !"
+}

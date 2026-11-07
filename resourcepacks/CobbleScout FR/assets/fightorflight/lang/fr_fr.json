@@ -1,0 +1,8 @@
+{
+ "client.fightorflight.hud.change_move": "%s utilise désormais :\n%s",
+ "item.fightorflight.pokestaff.command.auto_battle": "Combat auto",
+ "item.fightorflight.pokestaff.move.failed.choice_item": "[ %s ] L'objet tenu actuel ne permet d'utiliser qu'une seule capacité.",
+ "item.fightorflight.pokestaff.move.failed.busy": "[ %s ] utilise une capacité. Vous ne pouvez pas la changer maintenant.",
+ "key.fightorflight.should_display_notification_bar": "Afficher/masquer la barre de notifications",
+ "key.fightorflight.cmdmode.auto_battle": "Combat auto"
+}

@@ -1,0 +1,7 @@
+{
+ "text.autoconfig.bettercaves-fabric-1_21_1.title": "YUNG's Better Caves",
+ "text.autoconfig.bettercaves-fabric-1_21_1.option.general.liquidRegions": "Régions liquides",
+ "text.autoconfig.bettercaves-fabric-1_21_1.option.general.liquidRegions.liquidRegionSize": "Taille des régions liquides",
+ "text.autoconfig.bettercaves-fabric-1_21_1.option.general.liquidRegions.waterRegionSpawnChance": "Probabilité d'apparition des régions d'eau",
+ "text.autoconfig.bettercaves-fabric-1_21_1.option.general.liquidRegions.liquidAltitude": "Altitude des liquides"
+}

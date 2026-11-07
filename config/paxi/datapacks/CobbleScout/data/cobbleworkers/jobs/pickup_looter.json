@@ -1,0 +1,26 @@
+{
+  "id": "cobbleworkers:pickup_looter",
+  "cooldown": 1200,
+  "cooldown_scope": "PER_ENTITY",
+  "requirements": {
+    "abilities": [
+      "pickup"
+    ]
+  },
+  "components": [
+    {
+      "type": "cobbleworkers:loot_generation",
+      "loot_tables": [
+        "cobblemon:sets/any_ancient_held_item",
+        "cobblemon:sets/any_common_pokeball",
+        "cobblemon:sets/any_evo_stone",
+        "cobblemon:sets/any_exp_candy",
+        "cobblemon:sets/any_natural_heal_item",
+        "cobblemon:sets/any_type_gem",
+        "cobblemon:sets/any_apricorn_seed",
+        "cobblemon:villages/village_pokecenters",
+        "cobblescout:pickup_boosters"
+      ]
+    }
+  ]
+}

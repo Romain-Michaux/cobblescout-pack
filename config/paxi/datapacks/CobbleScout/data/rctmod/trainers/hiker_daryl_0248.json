@@ -1,0 +1,1 @@
+{"name": {"translatable": "rctmod.trainer_name.hiker_daryl_0248", "literal": "Hiker Daryl"}, "team": [{"species": "sudowoodo", "gender": "MALE", "level": 50, "nature": "quiet", "ability": "rockhead", "moveset": ["suckerpunch", "doubleedge", "stoneedge", "hammerarm"], "ivs": {"hp": 10, "atk": 10, "def": 10, "spa": 10, "spd": 10, "spe": 10}, "evs": {}}]}

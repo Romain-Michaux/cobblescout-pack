@@ -1,0 +1,12 @@
+name = "adventure-platform-mod"
+filename = "adventure-platform-fabric-5.14.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/O5VsIpQY/versions/GR24Eah4/adventure-platform-fabric-5.14.2.jar"
+hash-format = "sha512"
+hash = "78b912c519890fbf2e9a2eb6633fc5dd2c30154d539c5af9e0dacee8dfa9603a1d0b5e17cce8b353348b2c287c56bf36f3c179f603785e7ad2323f6c71fe1b06"
+
+[update.modrinth]
+mod-id = "O5VsIpQY"
+version = "GR24Eah4"

@@ -1,0 +1,1 @@
+{"name": {"translatable": "rctmod.trainer_name.burglar_ramon_00d6", "literal": "Burglar Ramon"}, "team": [{"species": "salazzle", "gender": "FEMALE", "level": 74, "nature": "brave", "ability": "corrosion", "moveset": ["venoshock", "flamethrower", "venomdrench", "dragonpulse"], "ivs": {"hp": 10, "atk": 10, "def": 10, "spa": 10, "spd": 10, "spe": 10}, "evs": {}}]}

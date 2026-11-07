@@ -1,0 +1,12 @@
+name = "LivelierPokemon"
+filename = "livelierpokemon-fabric-2.3.0+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/TrneBt3p/versions/GWATAxMX/livelierpokemon-fabric-2.3.0%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "8f09656b6220aaca3c152e37f60b9e44d74f0c3ce7e950dd7b2e918e3e87ec0ec6717b65186456556a4deba5adc7845dd1696f640c93432cfac6fe3edcb0b89b"
+
+[update.modrinth]
+mod-id = "TrneBt3p"
+version = "GWATAxMX"

@@ -1,0 +1,12 @@
+name = "Cobblemon Utility+ (IVs, EVs, & More)"
+filename = "Cobblemon-Utility+-fabric-1.8.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ePxok8ID/versions/JIzdem7c/Cobblemon-Utility%2B-fabric-1.8.0.jar"
+hash-format = "sha512"
+hash = "2454326aecdff553f84cc1d2b4355ec016e8b497d9b51a9efda5302aff5d9d36883c9d719991d70db97caca21155e5e61e205dcd08cf559bb1a5a0fc31b3ea05"
+
+[update.modrinth]
+mod-id = "ePxok8ID"
+version = "JIzdem7c"

@@ -1,0 +1,21 @@
+{
+  "id": "cobbleworkers:dive_looter",
+  "cooldown": 900,
+  "cooldown_scope": "PER_ENTITY",
+  "requirements": {
+    "moves": [
+      "dive"
+    ],
+    "conditions": [
+      "IN_WATER"
+    ]
+  },
+  "components": [
+    {
+      "type": "cobbleworkers:loot_generation",
+      "loot_tables": [
+        "cobbleworkers:dive_treasure"
+      ]
+    }
+  ]
+}

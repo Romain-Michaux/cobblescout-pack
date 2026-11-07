@@ -1,0 +1,14 @@
+{
+  "uuid": "25c03357-5670-4e31-a6b3-dd56e0f108fc",
+  "username": "Romna",
+  "pokedex_progress": {
+    "national": {
+      "progress_count": 22,
+      "claimed_rewards": [
+        "newcomer"
+      ],
+      "claimable_rewards": []
+    }
+  },
+  "caught_shinies": {}
+}

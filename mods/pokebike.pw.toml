@@ -1,0 +1,12 @@
+name = "PokeBike [Cobblemon & Pixelmon Addon]"
+filename = "pokebike-fabric-4.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8eqU62OI/versions/AK9vIaHl/pokebike-fabric-4.0.jar"
+hash-format = "sha512"
+hash = "8380bb5ce508d12e814aeef6e91e02ab299aad8b2a2479c9beab25738e25dd8a169f039d9eae2c3c3026afc06a1955e4b83069d0b257a08f69dfb5eb31dabdd6"
+
+[update.modrinth]
+mod-id = "8eqU62OI"
+version = "AK9vIaHl"

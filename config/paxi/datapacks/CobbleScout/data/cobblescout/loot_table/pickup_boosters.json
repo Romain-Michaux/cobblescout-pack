@@ -1,0 +1,156 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": 1,
+      "conditions": [
+        {
+          "condition": "minecraft:random_chance",
+          "chance": 0.5
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon-cards:booster_pack",
+          "weight": 60
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon-cards:booster_pack_gen1",
+          "weight": 3
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon-cards:booster_pack_gen2",
+          "weight": 3
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon-cards:booster_pack_gen3",
+          "weight": 3
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon-cards:booster_pack_gen4",
+          "weight": 3
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon-cards:booster_pack_gen5",
+          "weight": 3
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon-cards:booster_pack_gen6",
+          "weight": 3
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon-cards:booster_pack_gen7",
+          "weight": 3
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon-cards:booster_pack_gen8",
+          "weight": 3
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon-cards:booster_pack_gen9",
+          "weight": 3
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon-cards:booster_pack_normal",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon-cards:booster_pack_fire",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon-cards:booster_pack_water",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon-cards:booster_pack_grass",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon-cards:booster_pack_electric",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon-cards:booster_pack_ice",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon-cards:booster_pack_fighting",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon-cards:booster_pack_poison",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon-cards:booster_pack_ground",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon-cards:booster_pack_flying",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon-cards:booster_pack_psychic",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon-cards:booster_pack_bug",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon-cards:booster_pack_rock",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon-cards:booster_pack_ghost",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon-cards:booster_pack_dragon",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon-cards:booster_pack_dark",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon-cards:booster_pack_steel",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon-cards:booster_pack_fairy",
+          "weight": 1
+        }
+      ]
+    }
+  ]
+}

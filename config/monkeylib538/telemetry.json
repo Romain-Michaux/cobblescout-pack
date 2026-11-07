@@ -1,0 +1,8 @@
+{
+	// Boolean for enabling/disabling telemetry, either true or false. Defaults to true
+	"isEnabled": true,
+	// Used for making sure the first launch won't send any telemetry data to give time to modify the config after it's been generated. Defaults to true, but is set to false after launching
+	"isFirstLaunch": false,
+	// !!!!! DO NOT MODIFY THIS VALUE !!!!
+	"!!!version": 0
+}

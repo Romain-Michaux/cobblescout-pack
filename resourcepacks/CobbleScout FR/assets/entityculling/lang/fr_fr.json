@@ -1,0 +1,4 @@
+{
+ "text.entityculling.solidLeaves": "Feuilles pleines",
+ "text.entityculling.solidLeaves.tooltip": "Si activé, les feuilles seront considérées comme pleines pour l'élimination des entités cachées. Cela peut améliorer les performances en forêt, mais aussi causer des problèmes visuels. Utile si « Feuilles transparentes » est Désactivé, ou avec un pack de ressources à feuillage touffu."
+}

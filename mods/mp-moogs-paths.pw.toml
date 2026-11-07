@@ -1,0 +1,12 @@
+name = "MP - Moog's Paths"
+filename = "MoogsPaths-fabric-1.21.1-1.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/HDB8pnki/versions/5PvgxHIl/MoogsPaths-fabric-1.21.1-1.2.0.jar"
+hash-format = "sha512"
+hash = "ef06ad4c4332e6a765e736abd1a173c04f17583d482af9dd124f5460ea18f97d08511916267ad159a9cd69fddf3f2503006f80bd9b1279e7fd85b34763684807"
+
+[update.modrinth]
+mod-id = "HDB8pnki"
+version = "5PvgxHIl"

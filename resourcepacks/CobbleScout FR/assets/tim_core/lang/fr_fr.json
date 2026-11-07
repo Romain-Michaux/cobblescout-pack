@@ -1,0 +1,12 @@
+{
+ "tim_core.feedback.reserved": "Ce %1$s est réservé à %2$s.",
+ "tim_core.bits.someone_else": "quelqu'un d'autre",
+ "tim_core.buckets.common": "Commun",
+ "tim_core.buckets.uncommon": "Peu commun",
+ "tim_core.buckets.rare": "Rare",
+ "tim_core.buckets.ultra_rare": "Ultra rare",
+ "tim_core.buckets.boss": "Boss",
+ "tim_core.buckets.unknown": "Catégorie inconnue",
+ "tim_core.result.success": "Succès",
+ "tim_core.result.failure": "Échec"
+}

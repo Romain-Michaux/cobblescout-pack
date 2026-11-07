@@ -1,0 +1,12 @@
+name = "Matthiesen Core"
+filename = "matthiesen-core-fabric-1.3.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/sqEZOmQo/versions/7fXEDYDL/matthiesen-core-fabric-1.3.5.jar"
+hash-format = "sha512"
+hash = "6b3a0a8d8b6c4eafcf97099c9ba03350a6a69cec48f6ce853fba831ff942259826acea5834b2279b88ad7b70f3e67241ca24bbc3f38820204b7fc9c6a8d2d356"
+
+[update.modrinth]
+mod-id = "sqEZOmQo"
+version = "7fXEDYDL"

@@ -1,0 +1,21 @@
+{
+  "id": "cobbleworkers:fishing_looter",
+  "cooldown": 180,
+  "cooldown_scope": "PER_ENTITY",
+  "requirements": {
+    "types": [
+      "water"
+    ],
+    "conditions": [
+      "IN_WATER"
+    ]
+  },
+  "components": [
+    {
+      "type": "cobbleworkers:loot_generation",
+      "loot_tables": [
+        "minecraft:gameplay/fishing"
+      ]
+    }
+  ]
+}

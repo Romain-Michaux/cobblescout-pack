@@ -1,0 +1,5 @@
+{
+ "text.autoconfig.paxi-fabric-1_21.title": "Paxi",
+ "text.autoconfig.paxi-fabric-1_21.option.general.loadFromBaseDatapacksDirectory": "Charger depuis le dossier « datapacks » racine",
+ "text.autoconfig.paxi-fabric-1_21.option.general.loadFromBaseDatapacksDirectory.@Tooltip": "Si Paxi doit aussi forcer le chargement de tous les packs de données placés dans le dossier « datapacks » à la racine du dossier Minecraft. Ceci assure la compatibilité avec le nouveau système de packs de données de CurseForge."
+}

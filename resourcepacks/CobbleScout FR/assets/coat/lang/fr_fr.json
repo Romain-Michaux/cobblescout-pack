@@ -1,0 +1,20 @@
+{
+ "coat.action.abort": "Annuler",
+ "coat.action.abort.screen.title": "Abandon des modifications !",
+ "coat.action.abort.screen.desc": "Vous allez abandonner toutes vos modifications. Continuer ?",
+ "coat.action.accept_risk": "Accepter le risque",
+ "coat.action.save": "Enregistrer et fermer",
+ "coat.action.save.errors": "La configuration actuelle contient des erreurs.\n§lContinuer entraînera une perte de données !",
+ "coat.action.save.warnings": "La configuration actuelle contient des avertissements.\nVérifiez-les puis continuez.",
+ "coat.default": "Par défaut",
+ "coat.default.hover": "Réinitialiser à :",
+ "coat.input.enumerated.null": "Non défini",
+ "coat.list.append": "Ajouter une entrée",
+ "coat.message.jump": "Aller au problème",
+ "coat.message.level.info": "Info",
+ "coat.message.level.warning": "Avertissement",
+ "coat.message.level.error": "Erreur",
+ "coat.tree.expand": "+",
+ "coat.tree.collapse": "-",
+ "coat.tree.open": "Ouvrir"
+}

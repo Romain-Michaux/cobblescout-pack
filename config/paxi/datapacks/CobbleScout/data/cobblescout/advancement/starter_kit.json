@@ -1,0 +1,6 @@
+{
+  "criteria": {
+    "join": { "trigger": "minecraft:tick" }
+  },
+  "rewards": { "function": "cobblescout:starter_kit" }
+}

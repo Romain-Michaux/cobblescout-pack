@@ -1,0 +1,12 @@
+name = "YUNG's Better Caves"
+filename = "YungsBetterCaves-1.21.1-Fabric-3.1.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Dfu00ggU/versions/E2kXKiNY/YungsBetterCaves-1.21.1-Fabric-3.1.6.jar"
+hash-format = "sha512"
+hash = "49afd9d100c4c3278b41f4392e7476b9612757d7ec255e2adfd7a61d00f8c2db17adc9a3d3d20262f391285eec91db358e7507a02fc0e1c6337f5d6445339710"
+
+[update.modrinth]
+mod-id = "Dfu00ggU"
+version = "E2kXKiNY"

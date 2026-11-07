@@ -1,0 +1,7 @@
+{
+ "reactive_music.title": "Reactive Music",
+ "reactive_music.config.category.general": "Général",
+ "reactive_music.config.category.debug": "Débogage",
+ "reactive_music.config.option.music_delay": "Délai de la musique",
+ "reactive_music.config.option.debug_mode_enabled": "Mode débogage activé"
+}

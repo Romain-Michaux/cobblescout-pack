@@ -1,0 +1,74 @@
+[
+  {
+    "species": "clefairy",
+    "weight": 8,
+    "min_level": 1,
+    "max_level": 25
+  },
+  {
+    "species": "elgyem",
+    "weight": 8,
+    "min_level": 1,
+    "max_level": 28
+  },
+  {
+    "species": "bronzor",
+    "weight": 8,
+    "min_level": 1,
+    "max_level": 28
+  },
+  {
+    "species": "beldum",
+    "weight": 6,
+    "min_level": 10,
+    "max_level": 35
+  },
+  {
+    "species": "lunatone",
+    "weight": 5,
+    "min_level": 20,
+    "max_level": 55
+  },
+  {
+    "species": "solrock",
+    "weight": 5,
+    "min_level": 20,
+    "max_level": 55
+  },
+  {
+    "species": "minior",
+    "weight": 4,
+    "min_level": 20,
+    "max_level": 60
+  },
+  {
+    "species": "clefable",
+    "weight": 2,
+    "min_level": 30,
+    "max_level": 60
+  },
+  {
+    "species": "beheeyem",
+    "weight": 2,
+    "min_level": 30,
+    "max_level": 65
+  },
+  {
+    "species": "metang",
+    "weight": 3,
+    "min_level": 30,
+    "max_level": 55
+  },
+  {
+    "species": "metagross",
+    "weight": 1,
+    "min_level": 50,
+    "max_level": 75
+  },
+  {
+    "species": "bronzong",
+    "weight": 2,
+    "min_level": 30,
+    "max_level": 60
+  }
+]

@@ -1,0 +1,11 @@
+{
+  "bonusParCapture": 0.25,
+  "multiplicateurMax": 6.0,
+  "etiquettesExclues": [
+    "legendary",
+    "mythical",
+    "ultra_beast",
+    "paradox",
+    "pseudo_legendary"
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "actions": [
+    {
+      "type": "loot-table-modifier:pool_add",
+      "pools": [
+        {
+          "rolls": 1,
+          "bonus_rolls": 0,
+          "entries": [
+            {
+              "type": "minecraft:item",
+              "name": "cobblemon:master_ball",
+              "weight": 1
+            },
+            {
+              "type": "minecraft:item",
+              "name": "cobblemon:ability_patch",
+              "weight": 3
+            },
+            {
+              "type": "minecraft:item",
+              "name": "cobblemon_utility:goldencap",
+              "weight": 2
+            },
+            {
+              "type": "minecraft:item",
+              "name": "cobblemon:exp_candy_xl",
+              "weight": 6,
+              "functions": [
+                {
+                  "function": "minecraft:set_count",
+                  "count": {
+                    "type": "minecraft:uniform",
+                    "min": 1,
+                    "max": 2
+                  }
+                }
+              ]
+            },
+            {
+              "type": "minecraft:item",
+              "name": "cobblemon:rare_candy",
+              "weight": 8,
+              "functions": [
+                {
+                  "function": "minecraft:set_count",
+                  "count": {
+                    "type": "minecraft:uniform",
+                    "min": 3,
+                    "max": 5
+                  }
+                }
+              ]
+            },
+            {
+              "type": "minecraft:item",
+              "name": "cobblemon:pp_max",
+              "weight": 3
+            },
+            {
+              "type": "minecraft:item",
+              "name": "cobblemon:full_restore",
+              "weight": 4,
+              "functions": [
+                {
+                  "function": "minecraft:set_count",
+                  "count": {
+                    "type": "minecraft:uniform",
+                    "min": 1,
+                    "max": 2
+                  }
+                }
+              ]
+            },
+            {
+              "type": "minecraft:item",
+              "name": "cobblemon:ultra_ball",
+              "weight": 6,
+              "functions": [
+                {
+                  "function": "minecraft:set_count",
+                  "count": {
+                    "type": "minecraft:uniform",
+                    "min": 3,
+                    "max": 6
+                  }
+                }
+              ]
+            },
+            {
+              "type": "minecraft:item",
+              "name": "cobblemon:ability_capsule",
+              "weight": 4
+            },
+            {
+              "type": "minecraft:item",
+              "name": "cobblemon:shiny_stone",
+              "weight": 2
+            },
+            {
+              "type": "minecraft:item",
+              "name": "cobblemon:dusk_stone",
+              "weight": 2
+            },
+            {
+              "type": "minecraft:item",
+              "name": "cobblemon:dawn_stone",
+              "weight": 2
+            },
+            {
+              "type": "minecraft:item",
+              "name": "cobblemon:leftovers",
+              "weight": 2
+            },
+            {
+              "type": "minecraft:item",
+              "name": "cobblemon:life_orb",
+              "weight": 2
+            },
+            {
+              "type": "minecraft:item",
+              "name": "cobblemon:choice_band",
+              "weight": 1
+            },
+            {
+              "type": "minecraft:item",
+              "name": "cobblemon:choice_specs",
+              "weight": 1
+            },
+            {
+              "type": "minecraft:item",
+              "name": "cobblemon:choice_scarf",
+              "weight": 1
+            },
+            {
+              "type": "minecraft:item",
+              "name": "cobblemon:assault_vest",
+              "weight": 1
+            },
+            {
+              "type": "minecraft:item",
+              "name": "cobblemon:weakness_policy",
+              "weight": 1
+            },
+            {
+              "type": "minecraft:item",
+              "name": "cobblemon:heavy_duty_boots",
+              "weight": 1
+            },
+            {
+              "type": "minecraft:item",
+              "name": "cobblemon:ability_shield",
+              "weight": 1
+            }
+          ],
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.6
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "predicate": {
+    "type": "loot-table-modifier:table",
+    "identifiers": [
+      {
+        "regexPattern": "^(mvs:(ocean_tower|red_tower)/treasure|mes:mega_ship_treasure|mos:(skeleton/dragon_hoard|houses/atlantis_ultra_rare)|mmr:[a-z_]+/treasure_3)$"
+      }
+    ]
+  }
+}

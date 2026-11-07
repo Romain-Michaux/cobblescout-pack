@@ -1,0 +1,17 @@
+{
+ "entity_model_features.config.parrot_shoulder_animate": "Le perroquet suit les animations du joueur",
+ "entity_model_features.config.parrot_shoulder_animate.tooltip": "Fait suivre par défaut à la position du perroquet sur l'épaule la position animée du joueur. Ce n'est pas équivalent aux points d'attache `parrot_left` et `parrot_right`, qui ne pivotent pas.",
+ "entity_model_features.config.sulfur_cube_block": "Animation par défaut du bloc du cube de soufre",
+ "entity_model_features.config.sulfur_cube_block.tooltip": "Anime par défaut les blocs internes du cube de soufre. Équivaut à avoir un point d'attache 'sulfur_cube_block' dans la partie 'cube' du modèle avec un décalage de 0,0,0.",
+ "entity_model_features.config.logASM": "Journaliser l'état des maths compilées",
+ "entity_model_features.config.asmmaths.logASM": "Va inonder les journaux ; inutile sauf si le développeur vous a demandé un journal avec cette option.",
+ "entity_model_features.config.asmmaths": "Maths d'animation compilées",
+ "entity_model_features.config.asmmaths.tooltip": "Vous voulez presque toujours cette option ACTIVÉE.\nSi désactivée, le système d'animation utilise un arbre d'expressions plus coûteux en calcul, qui peut être plus utile pour le débogage.",
+ "entity_model_features.config.allowed_cem": "Modèles autorisés",
+ "entity_model_features.config.allowed_cem.tooltip": "Détermine avec quels modèles EMF essaiera d'interagir. Remarque : ce n'est pas parfait, certains mods utilisent simplement les ID de l'espace de noms vanilla et EMF n'y peut pas grand-chose",
+ "entity_model_features.config.allowed_cem.all": "Tous",
+ "entity_model_features.config.allowed_cem.known_only": "Connus uniquement (surtout vanilla / OptiFine)",
+ "entity_model_features.config.allowed_cem.unknown_only": "Inconnus uniquement (surtout moddés)",
+ "entity_model_features.config.export_rotations": "Exporter les rotations",
+ "entity_model_features.config.export_rotations.tooltip": "les modèles jem exportés ne devraient pas inclure les valeurs de rotation, car ils les héritent des parties vanilla\n mais certains éditeurs de modèles préfèrent avoir ces valeurs\n cette option les inclut dans les fichiers jem exportés"
+}

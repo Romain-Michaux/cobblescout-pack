@@ -1534,7 +1534,7 @@ hash = "e1c0254ae2068169bf990b17500af6cf09991883f30c7fd0e4fc11091c23e244"
 
 [[files]]
 file = "config/paxi/datapacks/CobbleScout/data/cobblescout/worldgen/configured_feature/safari_lac_eau.json"
-hash = "b429585db6c4a660e1fbdf49e12139a31583511ecaa47091d8ee3eaa0720e166"
+hash = "319b2f33c408aab1c3f9c031b9f1975041a63fa56134b8b854517a0d3aa57179"
 
 [[files]]
 file = "config/paxi/datapacks/CobbleScout/data/cobblescout/worldgen/noise_settings/safari.json"
@@ -1542,27 +1542,27 @@ hash = "efad03b3b9435b5bdd61ed228d3d50adf69f31c0df2f224d4f9c628d35bbd911"
 
 [[files]]
 file = "config/paxi/datapacks/CobbleScout/data/cobblescout/worldgen/placed_feature/safari_foret_lac.json"
-hash = "0ed5a2f76ba8f172bb35ef49a4b43567f26739855f52414e4fe3addec72a7574"
+hash = "5575ded1c2205aee61907b301df77ebde68c2a0f3cadc3ffdf3a6afb9b0204b2"
 
 [[files]]
 file = "config/paxi/datapacks/CobbleScout/data/cobblescout/worldgen/placed_feature/safari_jungle_lac.json"
-hash = "acaa74606bd91bb43371d78308061b8fa024418809525dbd4bdcab25e510fbc0"
+hash = "89676044aada01b86d670b107d63a1a6652295aa05ffec9a20139dc98327d287"
 
 [[files]]
 file = "config/paxi/datapacks/CobbleScout/data/cobblescout/worldgen/placed_feature/safari_lac_lac.json"
-hash = "2f5a94a6b6d081b96f1b0a66810a1cadf41832c0ee60be9702eb93ce92962bad"
+hash = "c82ccf0b0ca394cb2f2aa5f1019d321dfb8939c2dd315192b449ac1a8a504549"
 
 [[files]]
 file = "config/paxi/datapacks/CobbleScout/data/cobblescout/worldgen/placed_feature/safari_marais_lac.json"
-hash = "f1f3423eec708a296e790bbe0c3f3f75666ed1b3c2bdb6dec157131c3432cf3c"
+hash = "a88a7774af4f69bbf5a6dcae95effbabee08f6469a9897a55a44348d6800f514"
 
 [[files]]
 file = "config/paxi/datapacks/CobbleScout/data/cobblescout/worldgen/placed_feature/safari_savane_lac.json"
-hash = "c2b8897679ddbb24c6835068ae057f37195be6427c72f50ebca04f2fa4f26df5"
+hash = "8bf0257a512b11914e1790a21bb8546d8154679b7c4e954fc7fe37348bd29727"
 
 [[files]]
 file = "config/paxi/datapacks/CobbleScout/data/cobblescout/worldgen/placed_feature/safari_toundra_lac.json"
-hash = "0ed5a2f76ba8f172bb35ef49a4b43567f26739855f52414e4fe3addec72a7574"
+hash = "5575ded1c2205aee61907b301df77ebde68c2a0f3cadc3ffdf3a6afb9b0204b2"
 
 [[files]]
 file = "config/paxi/datapacks/CobbleScout/data/cobbleworkers/jobs/archaeologist.json"
@@ -8648,8 +8648,8 @@ file = "mods/cobblescout-pokedex-1.0.0.jar"
 hash = "0aaaafd234dae5a6e94cf9c48e250971be318162e3553337a062802cc6489809"
 
 [[files]]
-file = "mods/cobblescout-safari-1.0.1.jar"
-hash = "03000c51c34917e376a7d3bdb53d4d06db3cefd420a9a0435875951787b7c7be"
+file = "mods/cobblescout-safari-1.0.2.jar"
+hash = "473c33f362cda0d97dd970df87e60ab25c64bd3ed71e5587070019ac2a0bf25a"
 
 [[files]]
 file = "mods/cobbleworkers.pw.toml"

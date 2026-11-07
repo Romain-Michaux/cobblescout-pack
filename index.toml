@@ -177,6 +177,10 @@ file = "config/clientsort-server.json"
 hash = "0fbb153c5f8dcba35bc67ee09a93d86949c141ae7a50540bb442660bdc3992aa"
 
 [[files]]
+file = "config/cobblecuisine.json"
+hash = "64526bbbc85e4c9bb7abd85720b5d2b4edaa05eef04b45857fc00e93df23bd98"
+
+[[files]]
 file = "config/cobbled_counter.json"
 hash = "a9f9a07f39a8b38cb3c7610b60172fea676c73cdd16adde72e054b04b0ee92f7"
 
@@ -225,6 +229,10 @@ file = "config/cobblemon_move_tutor/server.toml"
 hash = "7ccac85f2d77bcf18dc1532960b943b5b67e725226dc18ed52c4eebe13a826c1"
 
 [[files]]
+file = "config/cobblemon_quests/cobblemon_quests.config"
+hash = "0b594cb89cb7b08f9ba40d2aadbc1ecc87bc0397761fe04829fe061ce62f41db"
+
+[[files]]
 file = "config/cobblemon_smartphone.json"
 hash = "423096a7a9f014fd152b38c21c1d55a256fdde761da33f369b402d5fd3c5e2ca"
 
@@ -239,6 +247,10 @@ hash = "adbba04f7f63ba7fc662bc9314db2b67b007aff67fcdd2ab35d163b76c6ccf20"
 [[files]]
 file = "config/cobblemonextendedbattleui.json"
 hash = "1d974cdd41a22c1d0369e86d5acea7710ab0550edec69807d4baffda034c9004"
+
+[[files]]
+file = "config/cobblemonintegrations-common.toml"
+hash = "74e265cec7be00488c07204cd11d5e0c270cf0bcc24a84dd6a4c0b8099d97552"
 
 [[files]]
 file = "config/cobblemonminigames/client.yml"
@@ -578,7 +590,7 @@ hash = "9bf84d9dec7f32977465029b712f07964b05049605926e3400fabaffe9ca51aa"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "60d89fa8bc7f031f54d1de065ca652eb4ca7dbfc16188d9393e62fdd33cc6745"
+hash = "a9fa3670c7b997628dca17d7f705effd2281b05e4b95ff82f54617354ec326b1"
 
 [[files]]
 file = "config/fallingleaves.json"
@@ -603,6 +615,14 @@ hash = "3325202d7ee8b839150bd6abe2208df29453e618ec911e9e6719d366ec8691b4"
 [[files]]
 file = "config/forgeconfigapiport.toml"
 hash = "40dbe5b348f89b8ded62bcdfe32807ffc3e78fa8e0f81607a739580019fe5450"
+
+[[files]]
+file = "config/ftblibrary-client.snbt"
+hash = "4a98161835ae188156dbc1f1015287c0c17aa91db082a083ba6a505de99923f1"
+
+[[files]]
+file = "config/ftbquests-client.snbt"
+hash = "1032e8651b80ddc5ddc712a56ae0d5a3408e9c28d5dcac2578705cce9ea4bcd0"
 
 [[files]]
 file = "config/immediatelyfast.json"
@@ -1051,6 +1071,10 @@ hash = "4f6d15b4553c7180a8fb3ed51b9ec890f57b9648680efdbb4897873970cf22d6"
 [[files]]
 file = "config/paxi/datapacks/CobbleScout/data/cobblescout/loot_table/pickup_boosters.json"
 hash = "0bc87d6cc783837a3fdfd0727c0bfe956872df9d06728741309cd409789f124c"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/recipe/etiquette.json"
+hash = "ac9c7d49410d08bbfb77f08bd3a45f1d1397c45f5358db5435e5dac7343de686"
 
 [[files]]
 file = "config/paxi/datapacks/CobbleScout/data/cobbleworkers/jobs/archaeologist.json"
@@ -7789,6 +7813,14 @@ file = "config/safepastures/safepastures.json"
 hash = "34e21211c0d91f781bba9c51faab27dcbd704c152ce042b1247e4e19c791dd5b"
 
 [[files]]
+file = "config/serilum/collective.json"
+hash = "f41ad25ed0e7d6959ca361b5b837140f8ab178c39b65e6d32cd9359c1d663c5f"
+
+[[files]]
+file = "config/serilum/treeharvester.json"
+hash = "344204cbab74f824eac7cddf62d8f43018bcbd06e6f084aef616229891f69961"
+
+[[files]]
 file = "config/sodium-extra.properties"
 hash = "a2f1b47c1eaa119ab34727f1d43c2506cb3d7f17ba8fb4efb49e20c8e0b58e70"
 
@@ -8007,6 +8039,11 @@ hash = "05ed091a5776c1d45a1c4b77f117bf31b4452be130023debc1a683d203842b7f"
 metafile = true
 
 [[files]]
+file = "mods/cobblecuisine.pw.toml"
+hash = "939315fe5e77a7eb340155921759b11e8daa532d530eb4ef9794cf9865de5c63"
+metafile = true
+
+[[files]]
 file = "mods/cobblefurnies.pw.toml"
 hash = "f860be6f856365835bdb1d1f393e0a2f3a6c9b8a5308e68aff576d34e86ef0d3"
 metafile = true
@@ -8028,6 +8065,16 @@ metafile = true
 [[files]]
 file = "mods/cobblemon-fight-or-flight-reborn.pw.toml"
 hash = "5bca3fe5263ed8fe30ef7a221ec160ee2757fdef26f4efbd81e8e970da219d72"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-integrations.pw.toml"
+hash = "b2e9f83d6de8ce21f38f6da00c5d817a001001f6db1e556155cd3120b8511ccb"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-knowlogy.pw.toml"
+hash = "98051a08033030a624bbb14dd40bca89cc4615cfde6b3d71af35c7671304e231"
 metafile = true
 
 [[files]]
@@ -8053,6 +8100,11 @@ metafile = true
 [[files]]
 file = "mods/cobblemon-pokenav.pw.toml"
 hash = "ac9c7c0d1ca37663ab9efdcca77227f1078c46ac28d7dd97aec65da13aa329f1"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-quests.pw.toml"
+hash = "17fb6076cf72312de253f71c47b7c9b38d216d1913374c827463d3427a90b80e"
 metafile = true
 
 [[files]]
@@ -8083,6 +8135,11 @@ metafile = true
 [[files]]
 file = "mods/cobblemon-trials-edition.pw.toml"
 hash = "6419d9f6407dd00bdfce1e6dd0340dd27ff2aeabd9e8e62e0b420ff66d1af124"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-ui-tweaks.pw.toml"
+hash = "eadcb1eaa6c693a11393b7028152746329b9b03628fd2261bedd36756e805af5"
 metafile = true
 
 [[files]]
@@ -8126,6 +8183,11 @@ metafile = true
 [[files]]
 file = "mods/cobbreeding.pw.toml"
 hash = "b555fea6c7550664f1c1d6df2984de17c9d326f21485fae835621f30203777e3"
+metafile = true
+
+[[files]]
+file = "mods/collective.pw.toml"
+hash = "22f2bdb8408a8b5955d9be4e3dc52f28225ccf69722b445074b05f68237e411b"
 metafile = true
 
 [[files]]
@@ -8219,6 +8281,21 @@ hash = "16335ccac81df5c120db600300ddc99ee9b91380d8be2b138cf3d38042f6f171"
 metafile = true
 
 [[files]]
+file = "mods/ftb-library-fabric.pw.toml"
+hash = "c562b6d607ceed88327f7727e2b98e84bb77b8383baa1e7fd3c361d78a602eaf"
+metafile = true
+
+[[files]]
+file = "mods/ftb-quests-fabric.pw.toml"
+hash = "bfc10043689d01a1d88a942bb8add097f8fc0302a9e33b5acf4dae29bc77b1d3"
+metafile = true
+
+[[files]]
+file = "mods/ftb-teams-fabric.pw.toml"
+hash = "63ac0965b35374549910cf05db12e9c50dbd058acd732c53ba19310c503643b7"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "75955cc7c373b4c75a7f96c880e458738aa79b4e641e763506c3dd0ac7dce2d0"
 metafile = true
@@ -8236,6 +8313,16 @@ metafile = true
 [[files]]
 file = "mods/jade.pw.toml"
 hash = "e1ce9ff023f5b91c2fd40520397ffec26a4757380ed09b4c746987d488b2c42f"
+metafile = true
+
+[[files]]
+file = "mods/knowlogy.pw.toml"
+hash = "49fa14ec136c9e3c7c61e94a3f19b6dd015301053c8894304a654e4cdb49ca1a"
+metafile = true
+
+[[files]]
+file = "mods/lavender.pw.toml"
+hash = "0943317750e3747493626a5863069f484dedc974d4c172e35abbd326498f61f0"
 metafile = true
 
 [[files]]
@@ -8500,6 +8587,11 @@ metafile = true
 [[files]]
 file = "mods/travelersbackpack.pw.toml"
 hash = "3358a747da08d9d49da24354ce6b9510f063f5b3c6e5d55dcffcfacf33e33f02"
+metafile = true
+
+[[files]]
+file = "mods/tree-harvester.pw.toml"
+hash = "d9310b8b17bdac9b19b61f9998646b0bfd30d748f4aab5593419d429eea27c7b"
 metafile = true
 
 [[files]]

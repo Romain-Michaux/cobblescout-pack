@@ -1,0 +1,12 @@
+name = "CobbleCuisine"
+filename = "cobblecuisine-2.2.0-1.8.4-alpha1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/dlx62Wp3/versions/TrpdaPfQ/cobblecuisine-2.2.0-1.8.4-alpha1.jar"
+hash-format = "sha512"
+hash = "8cbaae484209b7c4eaed3859bd7cb50c51ca4fe964c46f9c133fa6a78267006c965f741a97cd13d4bb25c28a4aaac52a06695dc8b0612ac0622d30d38fbe53e7"
+
+[update.modrinth]
+mod-id = "dlx62Wp3"
+version = "TrpdaPfQ"

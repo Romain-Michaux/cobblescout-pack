@@ -1,0 +1,12 @@
+name = "Tree Harvester"
+filename = "treeharvester-1.21.1-11.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/abooMhox/versions/mblTT0Sg/treeharvester-1.21.1-11.0.jar"
+hash-format = "sha512"
+hash = "5b623b046de77e13989d5dd2b4aa3358e8384a1932f7d5a3f676477d11de95ef778d94f8304494b106a0f95ed8e2320151722804bc0c4cfd1c724b98249f17ef"
+
+[update.modrinth]
+mod-id = "abooMhox"
+version = "mblTT0Sg"

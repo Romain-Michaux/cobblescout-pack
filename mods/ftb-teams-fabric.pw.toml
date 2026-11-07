@@ -1,0 +1,12 @@
+name = "FTB Teams (Fabric)"
+filename = "ftb-teams-fabric-2101.1.12.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/9434/82/ftb-teams-fabric-2101.1.12.jar"
+hash-format = "sha512"
+hash = "15c26bab6bc4a51451ea042d1de8ab54e4630d3525978e52246164bb5d346a1c57952038c82c74f4ce7c47449945b52fc6447696530e712b1356eca132668fe5"
+
+[update.curseforge]
+file-id = 9434082
+project-id = 438497

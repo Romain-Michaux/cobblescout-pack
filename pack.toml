@@ -1,11 +1,11 @@
 name = "CobbleScout"
-version = "2026.11.07-14h16"
+version = "2026.11.07-19h07"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "a3ce63a0ef46a3d4c3b6256d7b93b62c94530bcfb436340c8b4fbad1733992b5"
+hash = "230bcadad5a33f880fcfb11f37bbad451d6ba31ca41fad47b1a4b2582e9e2e3b"
 
 [versions]
 minecraft = "1.21.1"

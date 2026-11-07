@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "cobblescout:safari_desert",
+    "cobblescout:safari_foret",
+    "cobblescout:safari_jungle",
+    "cobblescout:safari_toundra"
+  ]
+}

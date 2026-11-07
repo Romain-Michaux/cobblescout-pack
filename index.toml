@@ -154,7 +154,7 @@ hash = "0b05a8814f09fead55b1901b7efab7d3ab87227ea3fc6b5e65a6197261832710"
 
 [[files]]
 file = "config/biomeswevegone/world_generation.json"
-hash = "6fb6ff3e2cb4d1c47431b2e9fb48090fd985e0b43777949ec0c346cda85e532d"
+hash = "4e644f8324221022aed71d39b3d56a6cd189d5bd3f67c4aa72b889fb208421da"
 
 [[files]]
 file = "config/capture_xp.json"
@@ -343,6 +343,10 @@ hash = "d9cdbe4c56f4f2099ba600319c833fe8b20d4eb52e060e5b4978bc2e6bf801f4"
 [[files]]
 file = "config/cobblescout_chaine.json"
 hash = "9d4deaf21912889aed1051e23bbde412cbffcaa9bf43170204fc6edc9d5a190b"
+
+[[files]]
+file = "config/cobblescout_safari.json"
+hash = "3e0499dc66f3d87c84bb1f5d04b1a2a5fe263253ddec70fd0c4717db522bfe5d"
 
 [[files]]
 file = "config/cobbleworkers/cobbleworkers.json"
@@ -582,7 +586,7 @@ hash = "9bf84d9dec7f32977465029b712f07964b05049605926e3400fabaffe9ca51aa"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "a9fa3670c7b997628dca17d7f705effd2281b05e4b95ff82f54617354ec326b1"
+hash = "9df689099489e233ea12c226f354e6470ec2ab2123ed4861e324fb53ac5ab09e"
 
 [[files]]
 file = "config/fallingleaves.json"
@@ -793,6 +797,326 @@ file = "config/paxi/datapacks/CobbleScout/data/cobblemon/callbacks/battle_victor
 hash = "1b519215294255d04ae3da701a848fc5fdd0415f806aa56c3c160c64067711b7"
 
 [[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblemon/tags/worldgen/biome/evolution/regional/cubone_kantobiome.json"
+hash = "2ec24059f72363c1acfea8a3c0f22bb7782d0b5a719697177510b129dd748d75"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblemon/tags/worldgen/biome/evolution/regional/dartrix_alolabiome.json"
+hash = "fc0126b5fbd91f57e6d6fd0769e6fb8cf1dda5c4b562ee3abd95b0ab9a90bed3"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblemon/tags/worldgen/biome/evolution/regional/dartrix_hisuibiome.json"
+hash = "4599800f60915e8017428dc04ae35b979c550071e388fbb8359583e50c8d9168"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblemon/tags/worldgen/biome/evolution/regional/exeggcute_kantobiome.json"
+hash = "ea6c71281561b1e847b3490f3300e339decd588069a8d289a7c5dc33a78188cb"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblemon/tags/worldgen/biome/evolution/regional/goomy_kalosbiome.json"
+hash = "341de2f360ef18b984536b76a730208180d10ea6085ff41019e399f3ca6214cd"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblemon/tags/worldgen/biome/evolution/regional/koffing_kantobiome.json"
+hash = "eaa6ec5b9002c5ada6ced15b9d63419e6bb9000dcd0debd669fe86401df86690"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblemon/tags/worldgen/biome/evolution/regional/mimejr_galarbiome.json"
+hash = "4599800f60915e8017428dc04ae35b979c550071e388fbb8359583e50c8d9168"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblemon/tags/worldgen/biome/evolution/regional/mimejr_sinnohbiome.json"
+hash = "eaa6ec5b9002c5ada6ced15b9d63419e6bb9000dcd0debd669fe86401df86690"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblemon/tags/worldgen/biome/evolution/regional/petilil_unovabiome.json"
+hash = "836d9d5c5dae8d0878eb790b7520b117d380999fca344b9833f0d33af94d80ca"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblemon/tags/worldgen/biome/evolution/regional/pikachu_kantobiome.json"
+hash = "836d9d5c5dae8d0878eb790b7520b117d380999fca344b9833f0d33af94d80ca"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblemon/tags/worldgen/biome/evolution/regional/quilava_hisuibiome.json"
+hash = "4599800f60915e8017428dc04ae35b979c550071e388fbb8359583e50c8d9168"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblemon/tags/worldgen/biome/evolution/regional/quilava_johtobiome.json"
+hash = "39bc17e299da1ccf8c4ee601ba44fa3f30275260ba71ca4a7ac3ca9810a50c48"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblemon/tags/worldgen/biome/evolution/vivillon/archipelago_anti.json"
+hash = "341de2f360ef18b984536b76a730208180d10ea6085ff41019e399f3ca6214cd"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblemon/tags/worldgen/biome/evolution/vivillon/continental.json"
+hash = "eaa6ec5b9002c5ada6ced15b9d63419e6bb9000dcd0debd669fe86401df86690"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblemon/tags/worldgen/biome/evolution/vivillon/continental_anti.json"
+hash = "4aeb1f25d4e7118091ecaa3208aaa9a296177755287550c8b7a3767c1c9a439f"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblemon/tags/worldgen/biome/evolution/vivillon/garden.json"
+hash = "836d9d5c5dae8d0878eb790b7520b117d380999fca344b9833f0d33af94d80ca"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblemon/tags/worldgen/biome/evolution/vivillon/garden_anti.json"
+hash = "90d9be1d1032a13018205acce4a4c9e2ca8a2e2a1cfdbfe96a82fb2f00ac2d7e"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblemon/tags/worldgen/biome/evolution/vivillon/icy_snow.json"
+hash = "4599800f60915e8017428dc04ae35b979c550071e388fbb8359583e50c8d9168"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblemon/tags/worldgen/biome/evolution/vivillon/jungle.json"
+hash = "54b2a1000e2978ca5a202003f6c2d96fcaca29c73c2751fede4dfdcc2fcfcc61"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblemon/tags/worldgen/biome/evolution/vivillon/meadow.json"
+hash = "836d9d5c5dae8d0878eb790b7520b117d380999fca344b9833f0d33af94d80ca"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblemon/tags/worldgen/biome/evolution/vivillon/monsoon_anti.json"
+hash = "1ee7c57c681bab1a76d51731f83aa8b7c785e097b3e053ed89bb1aedfced0b0f"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblemon/tags/worldgen/biome/evolution/vivillon/river.json"
+hash = "08431247b66699269931d92b039372185105585cda2ac3b354a25294cd6edafc"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblemon/tags/worldgen/biome/evolution/vivillon/river_anti.json"
+hash = "e52a5abcc4cc0f0eed176a3a36ad42c82af8c187d7b37decf89b2b0e42bf665e"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblemon/tags/worldgen/biome/evolution/vivillon/sandstorm.json"
+hash = "2ec24059f72363c1acfea8a3c0f22bb7782d0b5a719697177510b129dd748d75"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblemon/tags/worldgen/biome/evolution/vivillon/savanna.json"
+hash = "125b70a48a113a640ed80ac091ca34977482b0a01e35a5fb5754d3bb638d3afa"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblemon/tags/worldgen/biome/evolution/vivillon/savanna_anti.json"
+hash = "1ee7c57c681bab1a76d51731f83aa8b7c785e097b3e053ed89bb1aedfced0b0f"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblemon/tags/worldgen/biome/form_change/bagworm_cloak/plant_cloak.json"
+hash = "90d9be1d1032a13018205acce4a4c9e2ca8a2e2a1cfdbfe96a82fb2f00ac2d7e"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblemon/tags/worldgen/biome/form_change/bagworm_cloak/sandy_cloak.json"
+hash = "2ec24059f72363c1acfea8a3c0f22bb7782d0b5a719697177510b129dd748d75"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblemon/tags/worldgen/biome/form_change/bagworm_cloak/trash_cloak.json"
+hash = "4599800f60915e8017428dc04ae35b979c550071e388fbb8359583e50c8d9168"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblemon/tags/worldgen/biome/has_block/acacia_log.json"
+hash = "125b70a48a113a640ed80ac091ca34977482b0a01e35a5fb5754d3bb638d3afa"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblemon/tags/worldgen/biome/has_block/apricorn_log.json"
+hash = "33cca8a7f67e398eab7aeded4db189b6ac9cdcb79f9d89bd09d1c2ff7e3f8d40"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblemon/tags/worldgen/biome/has_block/birch_log.json"
+hash = "836d9d5c5dae8d0878eb790b7520b117d380999fca344b9833f0d33af94d80ca"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblemon/tags/worldgen/biome/has_block/jungle_log.json"
+hash = "54b2a1000e2978ca5a202003f6c2d96fcaca29c73c2751fede4dfdcc2fcfcc61"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblemon/tags/worldgen/biome/has_block/oak_log.json"
+hash = "6f94dcb5ca423243f3c27db9f7a3b19a979390d595d3e4f8f4413a53c4947a45"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblemon/tags/worldgen/biome/has_block/sand.json"
+hash = "2ec24059f72363c1acfea8a3c0f22bb7782d0b5a719697177510b129dd748d75"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblemon/tags/worldgen/biome/has_block/spruce_log.json"
+hash = "4599800f60915e8017428dc04ae35b979c550071e388fbb8359583e50c8d9168"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblemon/tags/worldgen/biome/has_density/dense.json"
+hash = "54b2a1000e2978ca5a202003f6c2d96fcaca29c73c2751fede4dfdcc2fcfcc61"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblemon/tags/worldgen/biome/has_density/sparse.json"
+hash = "3b039b9a372285db59b6211d70373aaf66bf87e9b2516a672eb7acde4d8df445"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblemon/tags/worldgen/biome/has_feature/apricorns_dense.json"
+hash = "52e607b580819525fdb5a4fe4d9bac12ffbbd3bb57b8543e8cf27fb322525c33"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblemon/tags/worldgen/biome/has_feature/apricorns_normal.json"
+hash = "5ac675f01ca107455516ba1b9456383cf99b075bffb5b0e59eeba4d0afe4cf22"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblemon/tags/worldgen/biome/has_feature/saccharine_tree.json"
+hash = "fc0126b5fbd91f57e6d6fd0769e6fb8cf1dda5c4b562ee3abd95b0ab9a90bed3"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblemon/tags/worldgen/biome/has_ore/ore_dawn_stone_rare.json"
+hash = "836d9d5c5dae8d0878eb790b7520b117d380999fca344b9833f0d33af94d80ca"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblemon/tags/worldgen/biome/has_ore/ore_dusk_stone_normal.json"
+hash = "4599800f60915e8017428dc04ae35b979c550071e388fbb8359583e50c8d9168"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblemon/tags/worldgen/biome/has_ore/ore_dusk_stone_rare.json"
+hash = "341de2f360ef18b984536b76a730208180d10ea6085ff41019e399f3ca6214cd"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblemon/tags/worldgen/biome/has_ore/ore_fire_stone_normal.json"
+hash = "2ec24059f72363c1acfea8a3c0f22bb7782d0b5a719697177510b129dd748d75"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblemon/tags/worldgen/biome/has_ore/ore_fire_stone_rare.json"
+hash = "2ec24059f72363c1acfea8a3c0f22bb7782d0b5a719697177510b129dd748d75"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblemon/tags/worldgen/biome/has_ore/ore_ice_stone_normal.json"
+hash = "4599800f60915e8017428dc04ae35b979c550071e388fbb8359583e50c8d9168"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblemon/tags/worldgen/biome/has_ore/ore_ice_stone_rare.json"
+hash = "4599800f60915e8017428dc04ae35b979c550071e388fbb8359583e50c8d9168"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblemon/tags/worldgen/biome/has_ore/ore_leaf_stone_normal.json"
+hash = "e52a5abcc4cc0f0eed176a3a36ad42c82af8c187d7b37decf89b2b0e42bf665e"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblemon/tags/worldgen/biome/has_ore/ore_leaf_stone_rare.json"
+hash = "341de2f360ef18b984536b76a730208180d10ea6085ff41019e399f3ca6214cd"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblemon/tags/worldgen/biome/has_ore/ore_moon_stone_normal.json"
+hash = "4599800f60915e8017428dc04ae35b979c550071e388fbb8359583e50c8d9168"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblemon/tags/worldgen/biome/has_ore/ore_shiny_stone_normal.json"
+hash = "836d9d5c5dae8d0878eb790b7520b117d380999fca344b9833f0d33af94d80ca"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblemon/tags/worldgen/biome/has_ore/ore_sun_stone_normal.json"
+hash = "4159b9f85781aa603b573695b3854bf4acf77414d726ae27faac5870c8f42124"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblemon/tags/worldgen/biome/has_ore/ore_sun_stone_rare.json"
+hash = "2ec24059f72363c1acfea8a3c0f22bb7782d0b5a719697177510b129dd748d75"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblemon/tags/worldgen/biome/has_ore/ore_thunder_stone_rare.json"
+hash = "5a5a7750e5328410eb9a86d3af469b64a732b38f6d8ef97f7be4b49c7083d302"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblemon/tags/worldgen/biome/has_ore/ore_water_stone_normal.json"
+hash = "08431247b66699269931d92b039372185105585cda2ac3b354a25294cd6edafc"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblemon/tags/worldgen/biome/has_ore/ore_water_stone_rare.json"
+hash = "54b2a1000e2978ca5a202003f6c2d96fcaca29c73c2751fede4dfdcc2fcfcc61"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblemon/tags/worldgen/biome/has_season/autumn.json"
+hash = "f237ad01664677fdc6e76e937d46c4d928473911716682a23a589ec1128c4a28"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblemon/tags/worldgen/biome/has_season/spring.json"
+hash = "39bc17e299da1ccf8c4ee601ba44fa3f30275260ba71ca4a7ac3ca9810a50c48"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblemon/tags/worldgen/biome/has_season/summer.json"
+hash = "ef39354dc0be5a55450e43165975c1a9d024c3e80b8eed3c6f4c333200c939f0"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblemon/tags/worldgen/biome/has_season/winter.json"
+hash = "4599800f60915e8017428dc04ae35b979c550071e388fbb8359583e50c8d9168"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblemon/tags/worldgen/biome/is_arid.json"
+hash = "ab8955cc31dcc3ed13ef6671340fcccfc374057d8e38eb61160ec6a71fc47f90"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblemon/tags/worldgen/biome/is_cold.json"
+hash = "4599800f60915e8017428dc04ae35b979c550071e388fbb8359583e50c8d9168"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblemon/tags/worldgen/biome/is_desert.json"
+hash = "2ec24059f72363c1acfea8a3c0f22bb7782d0b5a719697177510b129dd748d75"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblemon/tags/worldgen/biome/is_floral.json"
+hash = "836d9d5c5dae8d0878eb790b7520b117d380999fca344b9833f0d33af94d80ca"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblemon/tags/worldgen/biome/is_forest.json"
+hash = "836d9d5c5dae8d0878eb790b7520b117d380999fca344b9833f0d33af94d80ca"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblemon/tags/worldgen/biome/is_freezing.json"
+hash = "4599800f60915e8017428dc04ae35b979c550071e388fbb8359583e50c8d9168"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblemon/tags/worldgen/biome/is_freshwater.json"
+hash = "08431247b66699269931d92b039372185105585cda2ac3b354a25294cd6edafc"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblemon/tags/worldgen/biome/is_grassland.json"
+hash = "4159b9f85781aa603b573695b3854bf4acf77414d726ae27faac5870c8f42124"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblemon/tags/worldgen/biome/is_jungle.json"
+hash = "54b2a1000e2978ca5a202003f6c2d96fcaca29c73c2751fede4dfdcc2fcfcc61"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblemon/tags/worldgen/biome/is_overworld.json"
+hash = "33cca8a7f67e398eab7aeded4db189b6ac9cdcb79f9d89bd09d1c2ff7e3f8d40"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblemon/tags/worldgen/biome/is_plains.json"
+hash = "eaa6ec5b9002c5ada6ced15b9d63419e6bb9000dcd0debd669fe86401df86690"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblemon/tags/worldgen/biome/is_river.json"
+hash = "eaa6ec5b9002c5ada6ced15b9d63419e6bb9000dcd0debd669fe86401df86690"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblemon/tags/worldgen/biome/is_sandy.json"
+hash = "2ec24059f72363c1acfea8a3c0f22bb7782d0b5a719697177510b129dd748d75"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblemon/tags/worldgen/biome/is_savanna.json"
+hash = "125b70a48a113a640ed80ac091ca34977482b0a01e35a5fb5754d3bb638d3afa"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblemon/tags/worldgen/biome/is_snowy.json"
+hash = "4599800f60915e8017428dc04ae35b979c550071e388fbb8359583e50c8d9168"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblemon/tags/worldgen/biome/is_snowy_taiga.json"
+hash = "4599800f60915e8017428dc04ae35b979c550071e388fbb8359583e50c8d9168"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblemon/tags/worldgen/biome/is_swamp.json"
+hash = "341de2f360ef18b984536b76a730208180d10ea6085ff41019e399f3ca6214cd"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblemon/tags/worldgen/biome/is_taiga.json"
+hash = "4599800f60915e8017428dc04ae35b979c550071e388fbb8359583e50c8d9168"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblemon/tags/worldgen/biome/is_temperate.json"
+hash = "39bc17e299da1ccf8c4ee601ba44fa3f30275260ba71ca4a7ac3ca9810a50c48"
+
+[[files]]
 file = "config/paxi/datapacks/CobbleScout/data/cobblemon_smartphone/recipe/black_smartphone.json"
 hash = "349e00eec777139a8c0f89cedbc92056464fe71d383faf6d873d93c2c5c74b1d"
 
@@ -925,12 +1249,88 @@ file = "config/paxi/datapacks/CobbleScout/data/cobblescout/advancement/badges/le
 hash = "d552e00fbb28a305cb0afaf213a39d654cecc7ada20639a7ac74880843ebbc3e"
 
 [[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/advancement/pokedex/palier_10.json"
+hash = "4872abd3f8101a5c9216e5c9d3f9f65a70f2b9e128878d9789e6beb80779cbe6"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/advancement/pokedex/palier_100.json"
+hash = "7c2e4ab014421d1463303eef8477c7cf86b72d57ffb0342c11ae7e0f51eb34b2"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/advancement/pokedex/palier_1000.json"
+hash = "e183d48c8b13b54c067d776fa54c2ce4ea12ff09fe5665c8a4649a190858166a"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/advancement/pokedex/palier_150.json"
+hash = "924f78d0d7f7ff6209aadd55d0696a30a1b9fc6f9c943813d1591b3090d81dcd"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/advancement/pokedex/palier_200.json"
+hash = "3985948c39abdbdc9e7d57a2dfbf95476badc59f7fbb6209aaba55c4db25ffb6"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/advancement/pokedex/palier_25.json"
+hash = "09578d8d46d966f971e878f40227b891d1e25ffb90af63bd581129aab7bfbcd5"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/advancement/pokedex/palier_300.json"
+hash = "30034374d3251ce751a69781613f2bf6b7697a5b143d0e6eee225541a4db9b30"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/advancement/pokedex/palier_400.json"
+hash = "8a2df5dd851f8aec6cd7b06f661f290c5d4f86cca7648d9291e4bfe002df5269"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/advancement/pokedex/palier_50.json"
+hash = "27525f7e9bbfc09c16e95731d23cbadd5da2c591f7cd59fa712f673a2b19b4bd"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/advancement/pokedex/palier_500.json"
+hash = "27553688d63b1755c45c1abfff4951333e0b5837f9e1d9290cab3735617b7be3"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/advancement/pokedex/palier_750.json"
+hash = "6596579ada6d909fca59e9312afffa37c2bc9c805f62cd2ec735ce2eb8e29073"
+
+[[files]]
 file = "config/paxi/datapacks/CobbleScout/data/cobblescout/advancement/starter_kit.json"
 hash = "813e2004e0d9f029426058197e55ec6b81596555f55b84a9253166307ed78dd0"
 
 [[files]]
 file = "config/paxi/datapacks/CobbleScout/data/cobblescout/cobblemontrialsedition/structures/betterfortresses-fortress.json"
 hash = "a369519959ca001c4b7ae65b652bf1e53feefc34ea2d2aae647f2a18fe73a367"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/dimension/safari_desert.json"
+hash = "839d68c3fc6abc7de8a7c04a5d57e51ed22d569935453a901cc75217b2784632"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/dimension/safari_foret.json"
+hash = "20a96688ab131c9ea05a00008febd32d15dc328ae8c9ee475c678076dd550ab3"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/dimension/safari_jungle.json"
+hash = "70dc31f5df1d5670a3d3f026b159a62b6f216681d66d1b9134d42b5f7e5173e1"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/dimension/safari_lac.json"
+hash = "e19b1f171d77d2da58cb2885d25e8df62bb7d54fb2994799b84131e5af22d40d"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/dimension/safari_marais.json"
+hash = "fb6e09ea85dbfedbe55bd6f0072950b7376eafd8108f42f91ba108f4df82c685"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/dimension/safari_savane.json"
+hash = "14f52403306e951163955925c74f188169259b32c981a4231374503ad6ab2265"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/dimension/safari_toundra.json"
+hash = "09d534c0f05662535ab95395d8ee9b1650425119a384093921749c5cab44e9fe"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/dimension_type/safari.json"
+hash = "5c1a300ab552de7167fc57f0997ab009b2acfe640e2a43f103f78af854472980"
 
 [[files]]
 file = "config/paxi/datapacks/CobbleScout/data/cobblescout/function/badges/gym_leader_byron.mcfunction"
@@ -1005,6 +1405,50 @@ file = "config/paxi/datapacks/CobbleScout/data/cobblescout/function/load.mcfunct
 hash = "104dd3a1a98e8a85bf96c64dea1cb81e3e02bf3768b0dcc3821bd5d3dc94b315"
 
 [[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/function/pokedex/palier_10.mcfunction"
+hash = "ef4a4e50004978129950d3d93a1059b31197fffd69f8f47f4b384548ee648cd1"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/function/pokedex/palier_100.mcfunction"
+hash = "964b64a96a822f7d4d70ab3c376ec79e13d5d03a4bf0416b8cffe4c7f1153d24"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/function/pokedex/palier_1000.mcfunction"
+hash = "ffb52935c51f2a84ad7c21e1ca7f7b9014fa839f4564523c6cdaeb0482f294ab"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/function/pokedex/palier_150.mcfunction"
+hash = "5ad7d1d72756effb6023ed570accd7114cf7519467a4b4ac157ac3c7d2c06bc9"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/function/pokedex/palier_200.mcfunction"
+hash = "b8ac44e04a51b02ad85d188593e24c8c2537f24177c0bb0754197c821c851f3a"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/function/pokedex/palier_25.mcfunction"
+hash = "f63d9628dd9751ebc6354525359ce23fd7098b78f27e16fdd7045407f60a4d08"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/function/pokedex/palier_300.mcfunction"
+hash = "39e78775566f4031adae7b847d9670c0f3d4d350e4b25694fdfb77ad552ebf57"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/function/pokedex/palier_400.mcfunction"
+hash = "95fdd4ad13222cf54f3dec97f26eef87d99f41654c069b31201d6dadf633e952"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/function/pokedex/palier_50.mcfunction"
+hash = "f3f353150f9947184a9de35eaa0cde1c0a28191db5edd45680ef46ebb9b687d6"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/function/pokedex/palier_500.mcfunction"
+hash = "0a3c6b3aa9fcec285cde9325d14a02c1cdd5abe07c1d8976140691b19523c501"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/function/pokedex/palier_750.mcfunction"
+hash = "a2ed01eadf31b0240bc493e9ddfa2e6eeb22e34427185b27e24df4d61b3fdb51"
+
+[[files]]
 file = "config/paxi/datapacks/CobbleScout/data/cobblescout/function/starter_kit.mcfunction"
 hash = "6dd4ba07ad0862b8b656f07e2c8850167b11cd0f9e2320c94633280ea7db8b1e"
 
@@ -1059,6 +1503,66 @@ hash = "0bc87d6cc783837a3fdfd0727c0bfe956872df9d06728741309cd409789f124c"
 [[files]]
 file = "config/paxi/datapacks/CobbleScout/data/cobblescout/recipe/etiquette.json"
 hash = "ac9c7d49410d08bbfb77f08bd3a45f1d1397c45f5358db5435e5dac7343de686"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/worldgen/biome/safari_desert.json"
+hash = "5bf803a388bce0f52b6d640d530d19a6f12e8213c4c408858007e5cee3be90e2"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/worldgen/biome/safari_foret.json"
+hash = "230478b12b09b360a84c98a5fa3447cc82ca20aec339f6afbbb0ee033e648081"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/worldgen/biome/safari_jungle.json"
+hash = "64b2d926c161988c284f3e149e4b1661efa0cd1ebbd4f3733e4a0088a8a4027b"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/worldgen/biome/safari_lac.json"
+hash = "70163e7537183a1f15bfd1ad33f95fe6a6f11a856136e13560dd740e30ec2e5a"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/worldgen/biome/safari_marais.json"
+hash = "3dcce154b2ef3c1bf4f0d60339f253fedd680b5cbebe24b47d9c5e81de07008b"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/worldgen/biome/safari_savane.json"
+hash = "41c6fbb7d55b60780df103c271d51aa44cae4a8aa4c1b08b9acb4103b0ff02b7"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/worldgen/biome/safari_toundra.json"
+hash = "e1c0254ae2068169bf990b17500af6cf09991883f30c7fd0e4fc11091c23e244"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/worldgen/configured_feature/safari_lac_eau.json"
+hash = "b429585db6c4a660e1fbdf49e12139a31583511ecaa47091d8ee3eaa0720e166"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/worldgen/noise_settings/safari.json"
+hash = "efad03b3b9435b5bdd61ed228d3d50adf69f31c0df2f224d4f9c628d35bbd911"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/worldgen/placed_feature/safari_foret_lac.json"
+hash = "0ed5a2f76ba8f172bb35ef49a4b43567f26739855f52414e4fe3addec72a7574"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/worldgen/placed_feature/safari_jungle_lac.json"
+hash = "acaa74606bd91bb43371d78308061b8fa024418809525dbd4bdcab25e510fbc0"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/worldgen/placed_feature/safari_lac_lac.json"
+hash = "2f5a94a6b6d081b96f1b0a66810a1cadf41832c0ee60be9702eb93ce92962bad"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/worldgen/placed_feature/safari_marais_lac.json"
+hash = "f1f3423eec708a296e790bbe0c3f3f75666ed1b3c2bdb6dec157131c3432cf3c"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/worldgen/placed_feature/safari_savane_lac.json"
+hash = "c2b8897679ddbb24c6835068ae057f37195be6427c72f50ebca04f2fa4f26df5"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/worldgen/placed_feature/safari_toundra_lac.json"
+hash = "0ed5a2f76ba8f172bb35ef49a4b43567f26739855f52414e4fe3addec72a7574"
 
 [[files]]
 file = "config/paxi/datapacks/CobbleScout/data/cobbleworkers/jobs/archaeologist.json"
@@ -8138,6 +8642,14 @@ hash = "24c1b29ea4feb489fb5073b1e66e3ebc2e88098aada7d8c00381e58dc63d5687"
 [[files]]
 file = "mods/cobblescout-errance-1.1.0.jar"
 hash = "7c06d1156089ca0e2d2113410a07608db37a059da3c829314349dbbaa5b45a53"
+
+[[files]]
+file = "mods/cobblescout-pokedex-1.0.0.jar"
+hash = "0aaaafd234dae5a6e94cf9c48e250971be318162e3553337a062802cc6489809"
+
+[[files]]
+file = "mods/cobblescout-safari-1.0.0.jar"
+hash = "9d1415e5eef3195bb665d45ebab31bfed23a0a0a08c38b06e0f4c7a7c629a689"
 
 [[files]]
 file = "mods/cobbleworkers.pw.toml"

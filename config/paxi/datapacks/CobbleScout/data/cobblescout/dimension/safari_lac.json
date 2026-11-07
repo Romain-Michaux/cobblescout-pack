@@ -1,0 +1,11 @@
+{
+  "type": "cobblescout:safari",
+  "generator": {
+    "type": "minecraft:noise",
+    "settings": "cobblescout:safari",
+    "biome_source": {
+      "type": "minecraft:fixed",
+      "biome": "cobblescout:safari_lac"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "cobblescout:safari_desert",
+    "cobblescout:safari_foret",
+    "cobblescout:safari_jungle",
+    "cobblescout:safari_lac",
+    "cobblescout:safari_marais",
+    "cobblescout:safari_savane",
+    "cobblescout:safari_toundra"
+  ]
+}

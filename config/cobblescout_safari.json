@@ -1,0 +1,38 @@
+{
+  "fuseauHoraire": "Europe/Paris",
+  "dureeMinutes": 15,
+  "nombreBalls": 30,
+  "multiplicateurChroma": 2.0,
+  "rayonArrivee": 40,
+  "chuteMaxSousArrivee": 30,
+  "secondesAvantFinSansBalls": 8,
+  "ticketsParJour": 1,
+  "multiplicateursCategories": {
+    "ultra-rare": 4.0,
+    "rare": 4.0,
+    "uncommon": 2.0
+  },
+  "etiquettesInterdites": [
+    "legendary",
+    "mythical",
+    "ultra_beast"
+  ],
+  "ileParJour": [
+    "safari_savane",
+    "safari_foret",
+    "safari_marais",
+    "safari_jungle",
+    "safari_toundra",
+    "safari_desert",
+    "safari_lac"
+  ],
+  "nomsIles": {
+    "safari_lac": "le Lac",
+    "safari_foret": "la Forêt",
+    "safari_toundra": "la Toundra",
+    "safari_marais": "le Marais",
+    "safari_savane": "la Savane",
+    "safari_desert": "le Désert",
+    "safari_jungle": "la Jungle"
+  }
+}

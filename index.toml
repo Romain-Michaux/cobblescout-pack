@@ -677,10 +677,6 @@ file = "config/moonlight-common.json"
 hash = "66b4381d7d2230f64c12f3a7109aa50e6a60af7974e52d0a546797bcd3efbfc8"
 
 [[files]]
-file = "config/more_cobblemon_tweaks.json"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
 file = "config/naturescompass.json"
 hash = "3ae1ca2df618b3449ef0e9cadddf87af33ddefac4ac2542b0983d9b5ba25fd07"
 

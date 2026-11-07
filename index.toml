@@ -270,15 +270,15 @@ hash = "a5df556bd3598c8a0e8c2b9f5c190aebd2c48ab6cb34db21d8a37c5137ae448d"
 
 [[files]]
 file = "config/cobblemonminigames/shop/cobblemon.yml"
-hash = "71a718d6044381f543211030ada14f28de7fcfe783fe93e6b465e8cd427c0a3f"
+hash = "1e343f141f9185204b6c0ffb0a97fc337247ec7feef2ee6ade33359767584d57"
 
 [[files]]
 file = "config/cobblemonminigames/shop/cobblemon_cards.yml"
-hash = "168a5b4c22012eca7a3d6e3d50e02347b7abc11b75e735e15ccc979a34c28224"
+hash = "8b53dedea4836f8cf2fdae4bab8234df7bbded1419e02a4e9bad480ae32d1e95"
 
 [[files]]
 file = "config/cobblemonminigames/shop/mega_showdown.yml"
-hash = "debac08010f4eecab5da9226785b1fd78b473a3933107bd2df71dda6a93b546e"
+hash = "8e5410cfbbce2d714aee9f87cfa79d6e223f7903025ba35b40da163441434d3e"
 
 [[files]]
 file = "config/cobblemonraiddens/blacklist.json5"

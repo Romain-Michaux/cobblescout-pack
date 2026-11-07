@@ -12,126 +12,126 @@ categories:
         items:
           - type: item
             id: "cobblemon-cards:booster_pack"
-            price: 60
+            price: 150
             rarity: uncommon
 
       - name: "Boosters de génération"
         items:
           - type: item
             id: "cobblemon-cards:booster_pack_gen1"
-            price: 100
+            price: 250
             rarity: rare
           - type: item
             id: "cobblemon-cards:booster_pack_gen2"
-            price: 100
+            price: 250
             rarity: rare
           - type: item
             id: "cobblemon-cards:booster_pack_gen3"
-            price: 100
+            price: 250
             rarity: rare
           - type: item
             id: "cobblemon-cards:booster_pack_gen4"
-            price: 100
+            price: 250
             rarity: rare
           - type: item
             id: "cobblemon-cards:booster_pack_gen5"
-            price: 100
+            price: 250
             rarity: rare
           - type: item
             id: "cobblemon-cards:booster_pack_gen6"
-            price: 100
+            price: 250
             rarity: rare
           - type: item
             id: "cobblemon-cards:booster_pack_gen7"
-            price: 100
+            price: 250
             rarity: rare
           - type: item
             id: "cobblemon-cards:booster_pack_gen8"
-            price: 100
+            price: 250
             rarity: rare
           - type: item
             id: "cobblemon-cards:booster_pack_gen9"
-            price: 100
+            price: 250
             rarity: rare
 
       - name: "Boosters thématiques"
         items:
           - type: item
             id: "cobblemon-cards:booster_pack_normal"
-            price: 150
+            price: 375
             rarity: rare
           - type: item
             id: "cobblemon-cards:booster_pack_fire"
-            price: 150
+            price: 375
             rarity: rare
           - type: item
             id: "cobblemon-cards:booster_pack_water"
-            price: 150
+            price: 375
             rarity: rare
           - type: item
             id: "cobblemon-cards:booster_pack_grass"
-            price: 150
+            price: 375
             rarity: rare
           - type: item
             id: "cobblemon-cards:booster_pack_electric"
-            price: 150
+            price: 375
             rarity: rare
           - type: item
             id: "cobblemon-cards:booster_pack_ice"
-            price: 150
+            price: 375
             rarity: rare
           - type: item
             id: "cobblemon-cards:booster_pack_fighting"
-            price: 150
+            price: 375
             rarity: rare
           - type: item
             id: "cobblemon-cards:booster_pack_poison"
-            price: 150
+            price: 375
             rarity: rare
           - type: item
             id: "cobblemon-cards:booster_pack_ground"
-            price: 150
+            price: 375
             rarity: rare
           - type: item
             id: "cobblemon-cards:booster_pack_flying"
-            price: 150
+            price: 375
             rarity: rare
           - type: item
             id: "cobblemon-cards:booster_pack_psychic"
-            price: 150
+            price: 375
             rarity: rare
           - type: item
             id: "cobblemon-cards:booster_pack_bug"
-            price: 150
+            price: 375
             rarity: rare
           - type: item
             id: "cobblemon-cards:booster_pack_rock"
-            price: 150
+            price: 375
             rarity: rare
           - type: item
             id: "cobblemon-cards:booster_pack_ghost"
-            price: 150
+            price: 375
             rarity: rare
           - type: item
             id: "cobblemon-cards:booster_pack_dragon"
-            price: 150
+            price: 375
             rarity: rare
           - type: item
             id: "cobblemon-cards:booster_pack_dark"
-            price: 150
+            price: 375
             rarity: rare
           - type: item
             id: "cobblemon-cards:booster_pack_steel"
-            price: 150
+            price: 375
             rarity: rare
           - type: item
             id: "cobblemon-cards:booster_pack_fairy"
-            price: 150
+            price: 375
             rarity: rare
 
       - name: "Spécial"
         items:
           - type: item
             id: "cobblemon-cards:god_pack_ticket"
-            price: 1500
+            price: 6000
             rarity: ultra-rare

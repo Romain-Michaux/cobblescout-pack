@@ -1,5 +1,5 @@
 catalog-id: mega_showdown_shop
-enabled: true
+enabled: false
 requires-mods:
   - mega_showdown
 categories:

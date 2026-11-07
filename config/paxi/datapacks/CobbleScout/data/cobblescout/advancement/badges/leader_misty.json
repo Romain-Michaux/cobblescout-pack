@@ -1,0 +1,26 @@
+{
+  "criteria": {
+    "victoire": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type_specific": {
+                "type": "minecraft:player",
+                "advancements": {
+                  "rctmod:trainers/defeat_leader_misty": true
+                }
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "function": "cobblescout:badges/leader_misty"
+  }
+}

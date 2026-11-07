@@ -853,12 +853,148 @@ file = "config/paxi/datapacks/CobbleScout/data/cobblemon_smartphone/recipe/yello
 hash = "3e70e4c98177b39e6c2424b9154b9120bb5dc55a6b8fe44cce6a4374927faa38"
 
 [[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/advancement/badges/gym_leader_byron.json"
+hash = "b83488d9cc16b406114d753222585522a13f7efd8815ef9675b9855c22fc66b6"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/advancement/badges/gym_leader_candice.json"
+hash = "490d519af5ad58994be8a45ff6caa16032d56c38b006e359213623fc9e107d67"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/advancement/badges/gym_leader_fantina.json"
+hash = "dc0716ee4def74b8b215ba6edd2f78a56de9ebb5c54841825fe508c4a5fcdfb8"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/advancement/badges/gym_leader_gardenia.json"
+hash = "4217e43d6417be88e7d3b9413bf62c10ea1bce18ee09a263729bc39091cd9aa9"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/advancement/badges/gym_leader_maylene.json"
+hash = "0270ec8788834ae0bb5780335075169451bc0f90f1c5a9dfeb4b1e38ca3bdb23"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/advancement/badges/gym_leader_roark.json"
+hash = "c9ae5ee976da4744e2dcd2702c48a945e42b48ac8b98cf512beafeed32f3bcd5"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/advancement/badges/gym_leader_volkner.json"
+hash = "b9acc8c3ba9588a48247b178e110c706341ac7d4cbb0127f8f238464f1570155"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/advancement/badges/gym_leader_wake.json"
+hash = "eb14a787ba0b9389c21fd22651dd12a6a6ad826ded13cd5026e07a5f27f2f3a4"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/advancement/badges/leader_blaine.json"
+hash = "4402923427126343320eb510089742b808a795d11c06f18cfd0acb582a906819"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/advancement/badges/leader_brock.json"
+hash = "a1ac1313090327e0e130de945b61da4f5c49aa5d7907ffc78ceab990d4fd7d7d"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/advancement/badges/leader_clair.json"
+hash = "926e93822f443cb8658222c9e009a61912b7b292dc2b1dbd7198d1318b22807a"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/advancement/badges/leader_erika.json"
+hash = "ec87d94dc774374ab5f8468e943a0c426a3e0a85d730191e6b33803957b4c8ef"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/advancement/badges/leader_giovanni.json"
+hash = "213364d06c166e2fd4686ba960287bd9e7ab6e24eab2ba72584a73df10f36ba6"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/advancement/badges/leader_koga.json"
+hash = "d816b383fd1d30c10ec42f62e3408a37c7ff5f157d93e8b774fdabf099cd943b"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/advancement/badges/leader_lt_surge.json"
+hash = "a3fe0599ef072ee56a8446ff4ec6a7e207018171eac42b56b1d0949394d5ef38"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/advancement/badges/leader_misty.json"
+hash = "e6aaafe0a795a27ced4296cce72cec25059c7379dcbea13634ec402c1315ca0d"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/advancement/badges/leader_sabrina.json"
+hash = "d552e00fbb28a305cb0afaf213a39d654cecc7ada20639a7ac74880843ebbc3e"
+
+[[files]]
 file = "config/paxi/datapacks/CobbleScout/data/cobblescout/advancement/starter_kit.json"
 hash = "813e2004e0d9f029426058197e55ec6b81596555f55b84a9253166307ed78dd0"
 
 [[files]]
 file = "config/paxi/datapacks/CobbleScout/data/cobblescout/cobblemontrialsedition/structures/betterfortresses-fortress.json"
 hash = "a369519959ca001c4b7ae65b652bf1e53feefc34ea2d2aae647f2a18fe73a367"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/function/badges/gym_leader_byron.mcfunction"
+hash = "296c59d700fe3a81e8e6b2b59989bd5b5e31374bc7e6a31a4ecc5c300bc999f5"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/function/badges/gym_leader_candice.mcfunction"
+hash = "e9c076028ca0c697e9f9598897bc04f7862067eae87e6086d3bc495d94aacb08"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/function/badges/gym_leader_fantina.mcfunction"
+hash = "f4a3825cf189ad50185556a115c06c43050b1d21e060fb9dfc826907b293e290"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/function/badges/gym_leader_gardenia.mcfunction"
+hash = "4da1871985604cba1e599cf6d58e8559bcd022f88cc97a90d499eb0d0456a16d"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/function/badges/gym_leader_maylene.mcfunction"
+hash = "98c4adf7eb800fd40d89107e3ee0a1286b8a97e971f849c681916f8d85a7bb7f"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/function/badges/gym_leader_roark.mcfunction"
+hash = "4b5498b704db178d52e6967e6685ba994f2f4ce6d24377b4d5d683d191ea4795"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/function/badges/gym_leader_volkner.mcfunction"
+hash = "12f7859c6bac0548426056dc307052c90779d437981bb04716ebfe69d14c7bda"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/function/badges/gym_leader_wake.mcfunction"
+hash = "ae38e8345a06694818cae47fb7a4009581da62d82d9f464ab3ef5e74aa6817e0"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/function/badges/leader_blaine.mcfunction"
+hash = "b096eacb767a81e514e25da7ad57cbc5434bdba7ec1599633dd82cbe8ae4cade"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/function/badges/leader_brock.mcfunction"
+hash = "ed23ad4fdc157b182a911da6e76316f7ee159f4bd2bf87dcabef020e8295c68f"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/function/badges/leader_clair.mcfunction"
+hash = "8c63a1d086d831a553e5a5e5a09040cb43eea3f384bf2a57a7d7cad1f414f7b9"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/function/badges/leader_erika.mcfunction"
+hash = "8442c6f116984aa92f1641ab347900c3b7c1713582bd5d545a8564d78bf3cf33"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/function/badges/leader_giovanni.mcfunction"
+hash = "38212030bfe12a0cb978b95b857509d760aa2b394667291cff6fbbb91ff7f351"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/function/badges/leader_koga.mcfunction"
+hash = "84fb4e6aa4e9522454d45829c2d29b5e04a28ebe25c063ac8236e461dcfd52db"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/function/badges/leader_lt_surge.mcfunction"
+hash = "034b1b5f27e2b489283d680b009626b5f2a7252efa5dc494298703aa45a369a6"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/function/badges/leader_misty.mcfunction"
+hash = "abb1695c06127cd9f9eb5d57ce0d407f7c515f7007162aa76761e3c76bc67a25"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/function/badges/leader_sabrina.mcfunction"
+hash = "284342864a8a0c33844374536a1bdcbbd3274b7e87f72f47fa6a1b53009ea15d"
 
 [[files]]
 file = "config/paxi/datapacks/CobbleScout/data/cobblescout/function/load.mcfunction"

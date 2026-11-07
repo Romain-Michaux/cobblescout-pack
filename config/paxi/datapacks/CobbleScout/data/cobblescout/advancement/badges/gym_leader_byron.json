@@ -1,0 +1,26 @@
+{
+  "criteria": {
+    "victoire": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type_specific": {
+                "type": "minecraft:player",
+                "advancements": {
+                  "rctmod:trainers/defeat_gym_leader_byron_1": true
+                }
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "function": "cobblescout:badges/gym_leader_byron"
+  }
+}

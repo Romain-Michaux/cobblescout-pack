@@ -8658,16 +8658,16 @@ file = "mods/cobblescout-chaine-1.0.0.jar"
 hash = "24c1b29ea4feb489fb5073b1e66e3ebc2e88098aada7d8c00381e58dc63d5687"
 
 [[files]]
-file = "mods/cobblescout-errance-1.1.0.jar"
-hash = "7c06d1156089ca0e2d2113410a07608db37a059da3c829314349dbbaa5b45a53"
+file = "mods/cobblescout-errance-1.1.1.jar"
+hash = "756f49759a934aefd5996b0873c05b8365c05c8145a572763d4a2ae49b9f2118"
 
 [[files]]
 file = "mods/cobblescout-pokedex-1.0.0.jar"
 hash = "0aaaafd234dae5a6e94cf9c48e250971be318162e3553337a062802cc6489809"
 
 [[files]]
-file = "mods/cobblescout-safari-1.1.3.jar"
-hash = "7e90defb28f9e5e8f2269badad6ae4f50649a38ec954a26b925652e8771e31ac"
+file = "mods/cobblescout-safari-1.1.4.jar"
+hash = "db4cfcb917702484ee201feeefeedd53c90c637a65ec4aece21239456581ee50"
 
 [[files]]
 file = "mods/cobbleworkers.pw.toml"

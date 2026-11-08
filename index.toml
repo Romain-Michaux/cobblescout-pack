@@ -349,10 +349,6 @@ file = "config/cobblescout_safari.json"
 hash = "3e0499dc66f3d87c84bb1f5d04b1a2a5fe263253ddec70fd0c4717db522bfe5d"
 
 [[files]]
-file = "config/cobblescout_safari_etat.json"
-hash = "a50486ee034be9fffc6655e1098e0a44b3df13364dba2626538a5f2dae5e63c9"
-
-[[files]]
 file = "config/cobbleworkers/cobbleworkers.json"
 hash = "1899716eade1a64d7a6d75ed82b7ee205e11f999c18a91c67c81862e9ee754f9"
 
@@ -8079,10 +8075,6 @@ hash = "fea22def4a675a7bda428aeced4e5724aa4080fec6b01f2432afa4d18fbb13a2"
 [[files]]
 file = "config/rctmod-server.toml"
 hash = "18917c86295882bc527d73c4b595ae357099bd34b8df831263d4d3cae838ae1d"
-
-[[files]]
-file = "config/rctmod-server.toml.bak_safari"
-hash = "ea4af60e1918793b814129c36e40261f8d3c20a9ed1a143b3d1f2f3161e7fec7"
 
 [[files]]
 file = "config/rustlingspots/biome_tags/cave.json"

@@ -7,6 +7,24 @@
   "chuteMaxSousArrivee": 30,
   "secondesAvantFinSansBalls": 8,
   "ticketsParJour": 1,
+  "effacerIlesAuDemarrage": false,
+  "objetPokedex": "cobblemon:pokedex_red",
+  "nombreQuetes": 3,
+  "recompensesParCategorie": {
+    "common": [
+      "cobblemon:exp_candy_m 2"
+    ],
+    "uncommon": [
+      "cobblemon:exp_candy_l 2"
+    ],
+    "rare": [
+      "cobblemon:rare_candy 1"
+    ],
+    "ultra-rare": [
+      "cobblemon:rare_candy 2"
+    ]
+  },
+  "bonusToutesQuetes": [],
   "multiplicateursCategories": {
     "ultra-rare": 4.0,
     "rare": 4.0,
@@ -34,23 +52,5 @@
     "safari_savane": "la Savane",
     "safari_desert": "le Désert",
     "safari_jungle": "la Jungle"
-  },
-  "effacerIlesAuDemarrage": false,
-  "objetPokedex": "cobblemon:pokedex_red",
-  "nombreQuetes": 3,
-  "recompensesParCategorie": {
-    "common": [
-      "cobblemon:exp_candy_m 2"
-    ],
-    "uncommon": [
-      "cobblemon:exp_candy_l 2"
-    ],
-    "rare": [
-      "cobblemon:rare_candy 1"
-    ],
-    "ultra-rare": [
-      "cobblemon:rare_candy 2"
-    ]
-  },
-  "bonusToutesQuetes": []
+  }
 }

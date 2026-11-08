@@ -185,6 +185,10 @@ file = "config/cobbled_counter.json"
 hash = "a9f9a07f39a8b38cb3c7610b60172fea676c73cdd16adde72e054b04b0ee92f7"
 
 [[files]]
+file = "config/cobbledex-rei-emi-jei.json"
+hash = "ee94680b7f46c93e43e0d3aaf36f5857967dc1864434abc6249019f4515cd037"
+
+[[files]]
 file = "config/cobblemon-cards-species-rarity.json"
 hash = "7a5fe2b17d5aa4fc52bc03c1ebe6dac43389ab8609df26952bff5e673707482c"
 
@@ -346,7 +350,7 @@ hash = "9d4deaf21912889aed1051e23bbde412cbffcaa9bf43170204fc6edc9d5a190b"
 
 [[files]]
 file = "config/cobblescout_safari.json"
-hash = "e3de6a335b7a2473a9f02d669c8564dfa0d46526eeacb145d7f492ac069f253d"
+hash = "6186698fd85dde29950ddd23aec4b4e4800235469c5f4e16481c1dfa774729ca"
 
 [[files]]
 file = "config/cobbleworkers/cobbleworkers.json"
@@ -586,7 +590,7 @@ hash = "9bf84d9dec7f32977465029b712f07964b05049605926e3400fabaffe9ca51aa"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "05bdf4d5ea30942e4cb680422f29837ccfe02b3d7ed9ec83b56d7de64711b820"
+hash = "f68bb91d30acf94b999137946859b1e07c51e77dfbded11a38fa0f67141a73f5"
 
 [[files]]
 file = "config/fallingleaves.json"
@@ -8536,8 +8540,18 @@ hash = "939315fe5e77a7eb340155921759b11e8daa532d530eb4ef9794cf9865de5c63"
 metafile = true
 
 [[files]]
+file = "mods/cobbledex-rei-emi-jei.pw.toml"
+hash = "c799642dc27fd6be14b96b95904144a402012ded1602d0c4fabdfd4a48a6a367"
+metafile = true
+
+[[files]]
 file = "mods/cobblefurnies.pw.toml"
 hash = "f860be6f856365835bdb1d1f393e0a2f3a6c9b8a5308e68aff576d34e86ef0d3"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-battle-tower.pw.toml"
+hash = "f104a3ca5f92c12b7e3da8d446daa54a7381f2a4b464147ab1235256fe8e1a4b"
 metafile = true
 
 [[files]]
@@ -9052,6 +9066,11 @@ metafile = true
 [[files]]
 file = "mods/waystones.pw.toml"
 hash = "b053adfe5e0d86ba77ebb12232cdc90da49bc141ec94392ef018fc55cc52c829"
+metafile = true
+
+[[files]]
+file = "mods/wild-battle-api.pw.toml"
+hash = "9fb56e3a3f497684c5028223e48c56816421abd37634923a4d36705af1d3306a"
 metafile = true
 
 [[files]]

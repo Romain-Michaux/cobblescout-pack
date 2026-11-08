@@ -1,0 +1,12 @@
+name = "Cobblemon Info for REI / JEI / EMI"
+filename = "cobbledex-rei-emi-jei-fabric-2.32.14.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qekxLrOP/versions/RMwb8OFD/cobbledex-rei-emi-jei-fabric-2.32.14.jar"
+hash-format = "sha512"
+hash = "65d0bf424865eb8d444a10e44fea418f0f2fabc7c4f4c96b50639977a93ab22c3aa7024b26645bb0b0732a5e81fd61739d3e359ead383bdc9988afbc8ffb2745"
+
+[update.modrinth]
+mod-id = "qekxLrOP"
+version = "RMwb8OFD"

@@ -346,7 +346,7 @@ hash = "9d4deaf21912889aed1051e23bbde412cbffcaa9bf43170204fc6edc9d5a190b"
 
 [[files]]
 file = "config/cobblescout_safari.json"
-hash = "3e0499dc66f3d87c84bb1f5d04b1a2a5fe263253ddec70fd0c4717db522bfe5d"
+hash = "e3de6a335b7a2473a9f02d669c8564dfa0d46526eeacb145d7f492ac069f253d"
 
 [[files]]
 file = "config/cobbleworkers/cobbleworkers.json"
@@ -8652,8 +8652,8 @@ file = "mods/cobblescout-pokedex-1.0.0.jar"
 hash = "0aaaafd234dae5a6e94cf9c48e250971be318162e3553337a062802cc6489809"
 
 [[files]]
-file = "mods/cobblescout-safari-1.1.0.jar"
-hash = "18362a092b63c2bd95419d8a76ceb4297af9ee0d075556cf15a350e33cd9fdb9"
+file = "mods/cobblescout-safari-1.1.1.jar"
+hash = "a3caf09b3e23c4405815f65a284f95acf32141025e71a3c364902c9be8b784bc"
 
 [[files]]
 file = "mods/cobbleworkers.pw.toml"

@@ -8652,8 +8652,8 @@ file = "mods/cobblescout-pokedex-1.0.0.jar"
 hash = "0aaaafd234dae5a6e94cf9c48e250971be318162e3553337a062802cc6489809"
 
 [[files]]
-file = "mods/cobblescout-safari-1.1.2.jar"
-hash = "efdb2f45d9176d610823754c9cbae88b8825ad5c361a3fd77db33b115277ac90"
+file = "mods/cobblescout-safari-1.1.3.jar"
+hash = "7e90defb28f9e5e8f2269badad6ae4f50649a38ec954a26b925652e8771e31ac"
 
 [[files]]
 file = "mods/cobbleworkers.pw.toml"

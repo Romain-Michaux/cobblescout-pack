@@ -349,6 +349,10 @@ file = "config/cobblescout_safari.json"
 hash = "3e0499dc66f3d87c84bb1f5d04b1a2a5fe263253ddec70fd0c4717db522bfe5d"
 
 [[files]]
+file = "config/cobblescout_safari_etat.json"
+hash = "a50486ee034be9fffc6655e1098e0a44b3df13364dba2626538a5f2dae5e63c9"
+
+[[files]]
 file = "config/cobbleworkers/cobbleworkers.json"
 hash = "1899716eade1a64d7a6d75ed82b7ee205e11f999c18a91c67c81862e9ee754f9"
 
@@ -586,7 +590,7 @@ hash = "9bf84d9dec7f32977465029b712f07964b05049605926e3400fabaffe9ca51aa"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "9df689099489e233ea12c226f354e6470ec2ab2123ed4861e324fb53ac5ab09e"
+hash = "05bdf4d5ea30942e4cb680422f29837ccfe02b3d7ed9ec83b56d7de64711b820"
 
 [[files]]
 file = "config/fallingleaves.json"
@@ -8074,6 +8078,10 @@ hash = "fea22def4a675a7bda428aeced4e5724aa4080fec6b01f2432afa4d18fbb13a2"
 
 [[files]]
 file = "config/rctmod-server.toml"
+hash = "18917c86295882bc527d73c4b595ae357099bd34b8df831263d4d3cae838ae1d"
+
+[[files]]
+file = "config/rctmod-server.toml.bak_safari"
 hash = "ea4af60e1918793b814129c36e40261f8d3c20a9ed1a143b3d1f2f3161e7fec7"
 
 [[files]]
@@ -8307,6 +8315,10 @@ hash = "f41ad25ed0e7d6959ca361b5b837140f8ab178c39b65e6d32cd9359c1d663c5f"
 [[files]]
 file = "config/serilum/treeharvester.json"
 hash = "344204cbab74f824eac7cddf62d8f43018bcbd06e6f084aef616229891f69961"
+
+[[files]]
+file = "config/serilum/treeharvester/harvestable_axe_blacklist.txt"
+hash = "66d6070eff69e52e97721c04f2945e8ef0e54f199ff7ede2a78cc2c6777a5e95"
 
 [[files]]
 file = "config/sodium-extra.properties"
@@ -8648,8 +8660,8 @@ file = "mods/cobblescout-pokedex-1.0.0.jar"
 hash = "0aaaafd234dae5a6e94cf9c48e250971be318162e3553337a062802cc6489809"
 
 [[files]]
-file = "mods/cobblescout-safari-1.0.4.jar"
-hash = "7e5462c978c66fcec42849f2ee3ef3aaab8d37c7ef4c773e8015b92d8dea4a73"
+file = "mods/cobblescout-safari-1.1.0.jar"
+hash = "18362a092b63c2bd95419d8a76ceb4297af9ee0d075556cf15a350e33cd9fdb9"
 
 [[files]]
 file = "mods/cobbleworkers.pw.toml"

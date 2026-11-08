@@ -94,7 +94,7 @@
 	#━━━━━━━━━━
 	#A comma separated list of dimensions (e.g. ["multiworld:spawn", "minecraft:the_end"]).
 	#In these dimensions trainers will never spawn.
-	dimensionBlacklist = []
+	dimensionBlacklist = ["cobblescout:safari_savane", "cobblescout:safari_foret", "cobblescout:safari_marais", "cobblescout:safari_jungle", "cobblescout:safari_toundra", "cobblescout:safari_desert", "cobblescout:safari_lac"]
 	#━━━━━━━━━━
 	#A comma separated list of dimensions (e.g. ["multiworld:spawn" , "minecraft:the_end"]).
 	#Trainers may only spawn in these dimensions (unless the list is empty).

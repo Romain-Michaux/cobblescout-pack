@@ -33,34 +33,5 @@
     "ultra_beast",
     "paradox"
   ],
-  "recompensesParCategorie": {
-    "ultra-rare": [
-      "cobblemon:rare_candy 2"
-    ],
-    "uncommon": [
-      "cobblemon:exp_candy_l 2"
-    ],
-    "common": [
-      "cobblemon:exp_candy_m 2"
-    ],
-    "rare": [
-      "cobblemon:rare_candy 1"
-    ]
-  },
-  "recompensesParEtoiles": {
-    "3": [
-      "cobblemon:ultra_ball 5",
-      "cobblemon:pp_up 1"
-    ],
-    "2": [
-      "cobblemon:ultra_ball 3"
-    ],
-    "1": [
-      "cobblemon:great_ball 3"
-    ]
-  },
-  "palierBonus": 5,
-  "recompensesPalier": [
-    "cobblemon:ability_capsule 1"
-  ]
+  "palierBonus": 5
 }

@@ -253,6 +253,10 @@ file = "config/cobblemon_expeditions/augments/swift_feather.json"
 hash = "81cf6beaf3f47cb01bea1630a97b66fc884e9c740e65a7b4fc2c0f3498da0232"
 
 [[files]]
+file = "config/cobblemon_field_investigations.json"
+hash = "7ea45c2598bf4bd50eaf76cff562dd26c16d35e199587d26f7112f1db0069e0d"
+
+[[files]]
 file = "config/cobblemon_move_tutor/permissions.toml"
 hash = "2fb6430f6f288b910dcd8e0822985455564337e3993873f32c2dbab0107a8897"
 
@@ -379,10 +383,6 @@ hash = "9d4deaf21912889aed1051e23bbde412cbffcaa9bf43170204fc6edc9d5a190b"
 [[files]]
 file = "config/cobblescout_safari.json"
 hash = "6186698fd85dde29950ddd23aec4b4e4800235469c5f4e16481c1dfa774729ca"
-
-[[files]]
-file = "config/cobblescout_traque.json"
-hash = "bfbfaba12fed68916de27ddc6c958c8cc469700dd5533887fb1f5d5347c49231"
 
 [[files]]
 file = "config/cobbleworkers/cobbleworkers.json"
@@ -622,7 +622,7 @@ hash = "9bf84d9dec7f32977465029b712f07964b05049605926e3400fabaffe9ca51aa"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "6b0c8f4faddd70e82d1a659fc3cca55bfe73fb64f1e4d976a3a68bec70b13306"
+hash = "dbf476adfce6a9bb6442132e09a3c30f3bbc4e0a8e465a0cf3d5167c0be4ab67"
 
 [[files]]
 file = "config/fallingleaves.json"
@@ -8609,6 +8609,10 @@ hash = "fe8c1a6a5f5040638518450df79df5b8b824078a36a0088b86c1fc18369424d4"
 metafile = true
 
 [[files]]
+file = "mods/cobblemon-field-investigations-1.0.0.jar"
+hash = "b65a08c1aced21918ea2f8786cb98f9efa1b47fa2ec9306488d3850a2e0f866a"
+
+[[files]]
 file = "mods/cobblemon-fight-or-flight-reborn.pw.toml"
 hash = "5bca3fe5263ed8fe30ef7a221ec160ee2757fdef26f4efbd81e8e970da219d72"
 metafile = true
@@ -8708,10 +8712,6 @@ hash = "0aaaafd234dae5a6e94cf9c48e250971be318162e3553337a062802cc6489809"
 [[files]]
 file = "mods/cobblescout-safari-1.1.4.jar"
 hash = "db4cfcb917702484ee201feeefeedd53c90c637a65ec4aece21239456581ee50"
-
-[[files]]
-file = "mods/cobblescout-traque-1.0.0.jar"
-hash = "56aee8ba59715c47799fff54c7941506638a51fd873143b3a4379b82a592122e"
 
 [[files]]
 file = "mods/cobbleworkers.pw.toml"

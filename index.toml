@@ -154,7 +154,7 @@ hash = "0b05a8814f09fead55b1901b7efab7d3ab87227ea3fc6b5e65a6197261832710"
 
 [[files]]
 file = "config/biomeswevegone/world_generation.json"
-hash = "6fb6ff3e2cb4d1c47431b2e9fb48090fd985e0b43777949ec0c346cda85e532d"
+hash = "4e644f8324221022aed71d39b3d56a6cd189d5bd3f67c4aa72b889fb208421da"
 
 [[files]]
 file = "config/capture_xp.json"
@@ -254,7 +254,7 @@ hash = "81cf6beaf3f47cb01bea1630a97b66fc884e9c740e65a7b4fc2c0f3498da0232"
 
 [[files]]
 file = "config/cobblemon_field_investigations.json"
-hash = "7ea45c2598bf4bd50eaf76cff562dd26c16d35e199587d26f7112f1db0069e0d"
+hash = "f30a3254be2dd9be2b845a9af91c93c8ed80ed30b5436b9c9b224860e3b9c212"
 
 [[files]]
 file = "config/cobblemon_move_tutor/permissions.toml"
@@ -622,7 +622,7 @@ hash = "9bf84d9dec7f32977465029b712f07964b05049605926e3400fabaffe9ca51aa"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "dbf476adfce6a9bb6442132e09a3c30f3bbc4e0a8e465a0cf3d5167c0be4ab67"
+hash = "664259db96697fd65f62ac72947bf96579489c3549f6f4070b85abe4052a3399"
 
 [[files]]
 file = "config/fallingleaves.json"
@@ -8609,8 +8609,8 @@ hash = "fe8c1a6a5f5040638518450df79df5b8b824078a36a0088b86c1fc18369424d4"
 metafile = true
 
 [[files]]
-file = "mods/cobblemon-field-investigations-1.0.0.jar"
-hash = "b65a08c1aced21918ea2f8786cb98f9efa1b47fa2ec9306488d3850a2e0f866a"
+file = "mods/cobblemon-field-investigations-1.1.0.jar"
+hash = "ad9b1bc6c4c23b88b64d3ad427ab85a6502344b4d2ff4b232969a8732e04b479"
 
 [[files]]
 file = "mods/cobblemon-fight-or-flight-reborn.pw.toml"

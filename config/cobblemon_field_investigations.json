@@ -33,5 +33,9 @@
     "ultra_beast",
     "paradox"
   ],
-  "palierBonus": 5
+  "palierBonus": 5,
+  "nombrePistes": 3,
+  "minutesValiditePistes": 10,
+  "chanceEnqueteSpeciale": 0.5,
+  "difficulteMiniJeux": "normal"
 }

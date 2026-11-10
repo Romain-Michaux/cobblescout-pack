@@ -154,7 +154,7 @@ hash = "0b05a8814f09fead55b1901b7efab7d3ab87227ea3fc6b5e65a6197261832710"
 
 [[files]]
 file = "config/biomeswevegone/world_generation.json"
-hash = "4e644f8324221022aed71d39b3d56a6cd189d5bd3f67c4aa72b889fb208421da"
+hash = "6fb6ff3e2cb4d1c47431b2e9fb48090fd985e0b43777949ec0c346cda85e532d"
 
 [[files]]
 file = "config/capture_xp.json"
@@ -199,6 +199,34 @@ hash = "0229256f522165731b7805afa99dbe365e2412678f4c73a4cd2f7421836b8efe"
 [[files]]
 file = "config/cobblemon/main.json"
 hash = "ee2ee7631f56832acdfd6fc0d7baf0cc3253c98f52149b70fc12656a4828d25d"
+
+[[files]]
+file = "config/cobblemon_battle_tower/bp_boss_mode.json"
+hash = "32846269ccb33af31887c50ff84a8db5e013a735fd29a236a18f47ab6c2c8749"
+
+[[files]]
+file = "config/cobblemon_battle_tower/bp_per_floor.json"
+hash = "32846269ccb33af31887c50ff84a8db5e013a735fd29a236a18f47ab6c2c8749"
+
+[[files]]
+file = "config/cobblemon_battle_tower/bp_shop_items.json"
+hash = "76e492ae0cd3d1aa419aea1969e8446ef09a8de820df958e3664e49adf7b8c42"
+
+[[files]]
+file = "config/cobblemon_battle_tower/config.json"
+hash = "8a6b8e8e6db4a2e2bb8772ae98da1c238967c2e78b18d4255f51b11a2405badd"
+
+[[files]]
+file = "config/cobblemon_battle_tower/itemusage.json"
+hash = "b61e3c94075e6be93f87ad91dac52fb977a38e198c5714657706d5f2b71cab8e"
+
+[[files]]
+file = "config/cobblemon_battle_tower/skins/README.txt"
+hash = "a454519966415ca1f88231b3f349fb655235eaa302beb4275d47a1210fb97b0c"
+
+[[files]]
+file = "config/cobblemon_battle_tower/tasks.json"
+hash = "9465e56eb002cfe2661545cefa3260303765266b87d37409d9daa3c7939657b4"
 
 [[files]]
 file = "config/cobblemon_expeditions.json"
@@ -351,6 +379,10 @@ hash = "9d4deaf21912889aed1051e23bbde412cbffcaa9bf43170204fc6edc9d5a190b"
 [[files]]
 file = "config/cobblescout_safari.json"
 hash = "6186698fd85dde29950ddd23aec4b4e4800235469c5f4e16481c1dfa774729ca"
+
+[[files]]
+file = "config/cobblescout_traque.json"
+hash = "bfbfaba12fed68916de27ddc6c958c8cc469700dd5533887fb1f5d5347c49231"
 
 [[files]]
 file = "config/cobbleworkers/cobbleworkers.json"
@@ -590,7 +622,7 @@ hash = "9bf84d9dec7f32977465029b712f07964b05049605926e3400fabaffe9ca51aa"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "f68bb91d30acf94b999137946859b1e07c51e77dfbded11a38fa0f67141a73f5"
+hash = "6b0c8f4faddd70e82d1a659fc3cca55bfe73fb64f1e4d976a3a68bec70b13306"
 
 [[files]]
 file = "config/fallingleaves.json"
@@ -8457,6 +8489,14 @@ file = "config/waystones-common.toml"
 hash = "f878ed1142f2074bf504a1755b9bb3eb4bd395408205c4353b00020fa251f019"
 
 [[files]]
+file = "config/wild_battle_api.json"
+hash = "526ec336329ce1c7bdcfd2f9bd3be494214caafda4318730908049436113e9c9"
+
+[[files]]
+file = "config/wild_battle_api_rules.json"
+hash = "bed1fd53f48db4f491a7c5f2c6a8e28b7a497c330c3fc425f13df8bd3b0f3be7"
+
+[[files]]
 file = "config/yacl.json5"
 hash = "121b93764159be6fb7dab523b29a844e2bb78400ce8c48f52135a097e9b0006e"
 
@@ -8668,6 +8708,10 @@ hash = "0aaaafd234dae5a6e94cf9c48e250971be318162e3553337a062802cc6489809"
 [[files]]
 file = "mods/cobblescout-safari-1.1.4.jar"
 hash = "db4cfcb917702484ee201feeefeedd53c90c637a65ec4aece21239456581ee50"
+
+[[files]]
+file = "mods/cobblescout-traque-1.0.0.jar"
+hash = "56aee8ba59715c47799fff54c7941506638a51fd873143b3a4379b82a592122e"
 
 [[files]]
 file = "mods/cobbleworkers.pw.toml"

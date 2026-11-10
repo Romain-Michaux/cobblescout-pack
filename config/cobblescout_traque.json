@@ -1,0 +1,66 @@
+{
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "zoneDistanceMin": 100,
+  "zoneDistanceMax": 180,
+  "rayonZone": 45,
+  "taniereDistanceMin": 150,
+  "taniereDistanceMax": 280,
+  "dosesParEchantillon": 2,
+  "nombreSuspects": 8,
+  "epinglesPourTraquer": 3,
+  "minutesEntreEnquetes": 10,
+  "secondesEntreReleves": 6,
+  "distanceEntreReleves": 20,
+  "erreurMinDegres": 4.0,
+  "erreurMaxDegres": 14.0,
+  "minutesAvantDeplacement": 8,
+  "rayonApproche": 48,
+  "rayonAlerte": 18,
+  "rayonDebusque": 7,
+  "multChromaParEtoile": 3.0,
+  "bonusNouvelleEspece": 2.0,
+  "poidsCategories": {
+    "uncommon": 2.5,
+    "common": 1.0,
+    "rare": 3.0,
+    "ultra-rare": 2.0
+  },
+  "etiquettesInterdites": [
+    "legendary",
+    "mythical",
+    "ultra_beast",
+    "paradox"
+  ],
+  "recompensesParCategorie": {
+    "ultra-rare": [
+      "cobblemon:rare_candy 2"
+    ],
+    "uncommon": [
+      "cobblemon:exp_candy_l 2"
+    ],
+    "common": [
+      "cobblemon:exp_candy_m 2"
+    ],
+    "rare": [
+      "cobblemon:rare_candy 1"
+    ]
+  },
+  "recompensesParEtoiles": {
+    "3": [
+      "cobblemon:ultra_ball 5",
+      "cobblemon:pp_up 1"
+    ],
+    "2": [
+      "cobblemon:ultra_ball 3"
+    ],
+    "1": [
+      "cobblemon:great_ball 3"
+    ]
+  },
+  "palierBonus": 5,
+  "recompensesPalier": [
+    "cobblemon:ability_capsule 1"
+  ]
+}

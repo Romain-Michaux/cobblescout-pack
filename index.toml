@@ -254,7 +254,7 @@ hash = "81cf6beaf3f47cb01bea1630a97b66fc884e9c740e65a7b4fc2c0f3498da0232"
 
 [[files]]
 file = "config/cobblemon_field_investigations.json"
-hash = "f30a3254be2dd9be2b845a9af91c93c8ed80ed30b5436b9c9b224860e3b9c212"
+hash = "b32c7d14694ecc58f1484caa4a075efdcb375b62f50a1a81ea9b88629f4565fe"
 
 [[files]]
 file = "config/cobblemon_move_tutor/permissions.toml"
@@ -622,7 +622,7 @@ hash = "9bf84d9dec7f32977465029b712f07964b05049605926e3400fabaffe9ca51aa"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "664259db96697fd65f62ac72947bf96579489c3549f6f4070b85abe4052a3399"
+hash = "346270d7971f7d4c5a9766c39f859b3038f94fe7ab799b69f866ec9a646ce9e8"
 
 [[files]]
 file = "config/fallingleaves.json"
@@ -8610,7 +8610,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-field-investigations-1.1.0.jar"
-hash = "ad9b1bc6c4c23b88b64d3ad427ab85a6502344b4d2ff4b232969a8732e04b479"
+hash = "66425e27da2d0807bac0dc3f3777dc53c41ed95b9524c70a385016080ffa97cb"
 
 [[files]]
 file = "mods/cobblemon-fight-or-flight-reborn.pw.toml"

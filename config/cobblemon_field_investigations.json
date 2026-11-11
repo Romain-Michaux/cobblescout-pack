@@ -37,5 +37,6 @@
   "nombrePistes": 3,
   "minutesValiditePistes": 10,
   "chanceEnqueteSpeciale": 0.5,
-  "difficulteMiniJeux": "normal"
+  "difficulteMiniJeux": "normal",
+  "tailleEquipe": 4
 }

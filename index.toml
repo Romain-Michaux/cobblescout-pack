@@ -833,6 +833,18 @@ file = "config/paxi/datapacks/CobbleScout/data/cobblemon/callbacks/battle_victor
 hash = "1b519215294255d04ae3da701a848fc5fdd0415f806aa56c3c160c64067711b7"
 
 [[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblemon/spawn_pool_world/mt.json"
+hash = "ed50c24c15bcda31b2f5d13d25e5ef5399e81136f99c3016bdab3eb44c4897ec"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblemon/spawn_pool_world/mt2.json"
+hash = "58bc30f1102293d85f3d8a7d7045d2c34d6460ac952544498fd1c6059f7ce347"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblemon/spawn_pool_world/tyranitar_black.json"
+hash = "39eb199f944087f7e47301ede0c38565fef20b245dc6fb38a266f8114e843a07"
+
+[[files]]
 file = "config/paxi/datapacks/CobbleScout/data/cobblemon/tags/worldgen/biome/evolution/regional/cubone_kantobiome.json"
 hash = "2ec24059f72363c1acfea8a3c0f22bb7782d0b5a719697177510b129dd748d75"
 

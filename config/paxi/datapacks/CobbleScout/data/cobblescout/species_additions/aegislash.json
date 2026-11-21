@@ -1,0 +1,28 @@
+{
+  "target": "cobblemon:aegislash",
+  "drops": {
+    "amount": 6,
+    "entries": [
+      {
+        "item": "minecraft:iron_nugget",
+        "quantityRange": "0-3"
+      },
+      {
+        "item": "minecraft:iron_sword",
+        "percentage": 10.0
+      },
+      {
+        "item": "cobblemon:dusk_stone",
+        "percentage": 10.0
+      },
+      {
+        "item": "cobblemon:ability_shield",
+        "percentage": 10.0
+      },
+      {
+        "item": "minecraft:ghast_tear",
+        "percentage": 5.0
+      }
+    ]
+  }
+}

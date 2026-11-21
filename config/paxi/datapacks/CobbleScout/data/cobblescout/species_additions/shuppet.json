@@ -1,0 +1,20 @@
+{
+  "target": "cobblemon:shuppet",
+  "drops": {
+    "amount": 2,
+    "entries": [
+      {
+        "item": "minecraft:phantom_membrane",
+        "percentage": 2.5
+      },
+      {
+        "item": "cobblemon:spell_tag",
+        "percentage": 2.5
+      },
+      {
+        "item": "minecraft:ghast_tear",
+        "percentage": 5.0
+      }
+    ]
+  }
+}

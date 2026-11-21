@@ -1,0 +1,20 @@
+{
+  "target": "cobblemon:annihilape",
+  "drops": {
+    "amount": 2,
+    "entries": [
+      {
+        "item": "cobblemon:muscle_band",
+        "percentage": 10.0
+      },
+      {
+        "item": "cobblemon:payapa_berry",
+        "percentage": 10.0
+      },
+      {
+        "item": "minecraft:ghast_tear",
+        "percentage": 5.0
+      }
+    ]
+  }
+}

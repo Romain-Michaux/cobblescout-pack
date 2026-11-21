@@ -1,0 +1,24 @@
+{
+  "target": "cobblemon:pumpkaboo",
+  "drops": {
+    "amount": 3,
+    "entries": [
+      {
+        "item": "minecraft:pumpkin_seeds",
+        "quantityRange": "0-1"
+      },
+      {
+        "item": "cobblemon:miracle_seed",
+        "percentage": 2.5
+      },
+      {
+        "item": "cobblemon:kasib_berry",
+        "percentage": 2.5
+      },
+      {
+        "item": "minecraft:ghast_tear",
+        "percentage": 5.0
+      }
+    ]
+  }
+}

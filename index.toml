@@ -622,7 +622,7 @@ hash = "9bf84d9dec7f32977465029b712f07964b05049605926e3400fabaffe9ca51aa"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "a2f3fb4b991eeb2af0882433baf39857479e0c50974965e78690f989981b54aa"
+hash = "d552218f2aee25e28f76dd5ed45620cb817839c168fde23e927924c7dee883d9"
 
 [[files]]
 file = "config/fallingleaves.json"
@@ -751,6 +751,42 @@ hash = "c56514d829c4a07c7f89d090ef29684d4db9a46d03aab9c9718abcd2cda9bbb0"
 [[files]]
 file = "config/paxi/datapacks/CobbleScout/data/betterdeserttemples/tags/worldgen/biome/has_structure/better_desert_temple.json"
 hash = "b449b7e9c65c6923f9e693b7810edb332562f31558f0f2631190bc0cce8132fe"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/betterfortresses/loot_table/chests/beacon.json"
+hash = "91f2223622f213b310f154bf5d42ea4ee087248ae8f91db88db407d2f31e363e"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/betterfortresses/loot_table/chests/extra.json"
+hash = "4051981686cdd7117ea5590345c52fa4bf10b24592b29514e80b9c0a19641a80"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/betterfortresses/loot_table/chests/hall.json"
+hash = "87f6002e2269c19a0b91d1f1a3ca2de833e805d7e850967cf55ae4f8c5ee651c"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/betterfortresses/loot_table/chests/keep.json"
+hash = "7c8a75e55d4e70a4ca23fd9d5595324db71a2452e64b966a5dad0226e0e92d73"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/betterfortresses/loot_table/chests/obsidian.json"
+hash = "63a32fad3c831a0b9df76c7847d4e6b3ad59ec0df04e04479604ee663db6aba2"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/betterfortresses/loot_table/chests/puzzle.json"
+hash = "272bcc06559ca7eb8619fcd7d7253dbc9fd2fa9febdb6b2d7424b65b1e8738da"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/betterfortresses/loot_table/chests/quarters.json"
+hash = "e8ac9b85a3a0b54452f0e5b7abb14a83274d580a5e0b2ed5a4aa658705a0c19c"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/betterfortresses/loot_table/chests/storage.json"
+hash = "f8d7d93f62a226db5080b98a0642c83db67dedc2805236598aa0dbaeb94fb62c"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/betterfortresses/loot_table/chests/worship.json"
+hash = "0fc9b4006e80d9b917219b9b15596d9b355ef5c26e40250e7b2764f10137fdeb"
 
 [[files]]
 file = "config/paxi/datapacks/CobbleScout/data/bettermineshafts/tags/worldgen/biome/has_structure/better_mineshaft_acacia.json"
@@ -1553,6 +1589,266 @@ file = "config/paxi/datapacks/CobbleScout/data/cobblescout/recipe/etiquette.json
 hash = "ac9c7d49410d08bbfb77f08bd3a45f1d1397c45f5358db5435e5dac7343de686"
 
 [[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/species_additions/aegislash.json"
+hash = "1c3e6617cd4aa08ff676e0c1a0c4ce105b3e6f957d9cc7f16f4083da21112044"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/species_additions/annihilape.json"
+hash = "d1521d8995f60132368d7d764cb01a2592f0869cbbeeaaeee4630d247a66534e"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/species_additions/banette.json"
+hash = "1c4ebce8da5d37ef4b9340f854a94ddb8e522e484323d204fae5d07514165625"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/species_additions/basculegion.json"
+hash = "3629939739afa7762297eb16a8c716097c6e7f1409d040fe0dede3cf9698ade4"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/species_additions/blacephalon.json"
+hash = "c0389cad280eeb3886f756ce61167d9acbb2f0fc9283df26eecd19e91d7b2bcc"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/species_additions/brambleghast.json"
+hash = "36cc18608b92918348475010c173a7a9ddcef3d346fd56afa97d11751d888c9e"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/species_additions/bramblin.json"
+hash = "41bb20c0d2e8eb2349ee338c97fb81e6bb37f08efb4ffbb14e592b8a05a1b3f7"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/species_additions/ceruledge.json"
+hash = "101b290db0f281c123a708ac29eb14db50b12a667d7246709701e0dd8a458df9"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/species_additions/chandelure.json"
+hash = "86cf5e3dad9eb68b3648aacd32f10f25672f2d9347b87cbad4e1fe4e53a8aee4"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/species_additions/cofagrigus.json"
+hash = "99e339c92a9a05e79f466d05be5e4da290528808cb9d58fa73464d2bd8df9f8c"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/species_additions/cursola.json"
+hash = "3821f297b666e0c001108bf0f77654b14ccb8b819a0978c5a87d0ff5ff61f129"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/species_additions/decidueye.json"
+hash = "ebf20257bb82b9b72316fb4497a614c043d2eb045bcea01c4a251d7b443360e1"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/species_additions/dhelmise.json"
+hash = "0b0c3bcaf5e6f6428ec90fb354e2d9b2d4d58d4b1940dd9b0e74bdc9f1cade7b"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/species_additions/doublade.json"
+hash = "422a6722257d402a9feea98503af7056d847e21a52bed3f3231a1713f62264b3"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/species_additions/dragapult.json"
+hash = "5fc114961f54170d58d5036cdaf2c091c5e3ba88b84c0cf07c961049b2d218ca"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/species_additions/drakloak.json"
+hash = "b782c2624f8b8f8c52fe4f5db1b92e7e0bfb6b870d1fdb52b72bf070a2d701e7"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/species_additions/dreepy.json"
+hash = "91aa114ee1828ed930304ca934e1ae31bf6b047871be1f7a1c2dfc9116c27e4f"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/species_additions/drifblim.json"
+hash = "44cbba91dd4a576ebc643721d480c2e86f808adab73ad58b65c0af567945df30"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/species_additions/drifloon.json"
+hash = "bfee3c95b0ee67d8e977305669fff44dbe52108619cba5aa34435889ca7002bb"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/species_additions/dusclops.json"
+hash = "d481b9f3da3c8cd078e318ec02b46a4978ec4fc76c0f8c307106ef8f312a2ffe"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/species_additions/dusknoir.json"
+hash = "7bc77a415daf8837f96fa26d71c6c63fdc21b4e086285c1164ec0c9cb622fef6"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/species_additions/duskull.json"
+hash = "4986a7fa31e42272e2139b49984bdec09b8ce57c3474e7c5f061e9680295fb61"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/species_additions/fluttermane.json"
+hash = "29885d7bca0231e609afb5f60d2d4373384b3dcacb07d911c8074b003ff891c0"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/species_additions/frillish.json"
+hash = "4933e237bbe86f3d19f7d63957c40895aa7ebd692916aa9cfa88568e15a5f95b"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/species_additions/froslass.json"
+hash = "72364929ee24a0dd2627806d45e0fd6d21a01e4d56d7378f6a5908d6a8107a49"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/species_additions/gastly.json"
+hash = "506340dcff75e256f1973f1b8c1b465a92aa4eec883e9f64a456d6ea7887cb0e"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/species_additions/gengar.json"
+hash = "250fa2e3e728c511a1bb30ccc98b11c78ef98177adc0c8ce8a3f33addf9f3083"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/species_additions/gholdengo.json"
+hash = "af00e7d7d90c3d41415edc8daaac4814e19b168ea5987fcbb77762525cc8c70c"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/species_additions/gimmighoul.json"
+hash = "c1cf322853ec6c860f2bf51d9babeac2a661f36edce8a560fc3fd57ca93150c6"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/species_additions/giratina.json"
+hash = "40028ce22d60c01eae12a85e0615c549d9c590a6538c7d354a57464291ae8282"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/species_additions/golett.json"
+hash = "b22a79fe5638eb3f3369f7037dbc9c85e22290c2407ec47cb51abce72b2c2719"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/species_additions/golurk.json"
+hash = "eec7fdf28794d795f906102167666dc45784fee9b5a8896b3dc19590700902a5"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/species_additions/gourgeist.json"
+hash = "4679d586faa0f8869b40de1c33b9e466cee6c4967143f6d3b310626c964b62e3"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/species_additions/greavard.json"
+hash = "a816d6b4e2a220148ab5baa9105f8bae91e6d46802939ab451943cbeb43a871f"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/species_additions/haunter.json"
+hash = "d19f018b7c6de7253fcd62a33059d07df37db99827d2577a4f66948d16a4eb20"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/species_additions/honedge.json"
+hash = "84185102edb3f86937fb835f507234610e8b93790ca2fb6eb2093665679e27af"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/species_additions/hoopa.json"
+hash = "8929c6b4c2cb825fc5d7705b8af73601928d15d6425b043279f82744a651b649"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/species_additions/houndstone.json"
+hash = "924b42a895a6d16ad09943b54814ddac24c7e8ea368dcc9a0deaf8d00c83735f"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/species_additions/jellicent.json"
+hash = "970b41b115ec5c56984b022470d47b15927bd61f1b823a12a5f705a2f70e589e"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/species_additions/lampent.json"
+hash = "84fffe11fbef5e84a6e0d15c8f0b4d1c1ccf7b0cbefa234d63ee7c7109adb4b7"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/species_additions/litwick.json"
+hash = "10ef9799d8efa6fd5d7be9c3bcb8d18a39e2b8977b084b4726aaec0aceb1feab"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/species_additions/lunala.json"
+hash = "04a9f39a0a4c8fcae31fb460ea59b679189f964649f8c397527e230b0f8a61e2"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/species_additions/marshadow.json"
+hash = "8b90b5a19c26b9f99349db5d90ce1dd37194436712f1dc0d1cf2fbc860a9d958"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/species_additions/mimikyu.json"
+hash = "8ec69e2b8d6ad6c4b2995c6dd8ca7bc0953917c52e100f918e9cbbca4307a4c6"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/species_additions/misdreavus.json"
+hash = "a12dd0f23b50f979a72705340914667a744d15b5d92dccd1edf0146546f87cd2"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/species_additions/mismagius.json"
+hash = "b0196df9c050c60378607e8ef10fdb823a260cca1c18da9fc8c52e6fee89333d"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/species_additions/palossand.json"
+hash = "124938a14594cd582d2ee9f552560edb36b0d3edb695b44d2ef2d3e297992c77"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/species_additions/pecharunt.json"
+hash = "59ed64ef3cfc81be52a280a34b4819be2fee31775c29cfeb212b9be0cb1eac76"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/species_additions/phantump.json"
+hash = "ddfc652a6abccbe110258f399ca3bc6375df8e8cbbce865035c1496b26e5e755"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/species_additions/poltchageist.json"
+hash = "795e04d86e578d167d1d73cbace2c6cbd22394f70b39edc3cb655b571efa3bb9"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/species_additions/polteageist.json"
+hash = "78bcd4bb03696c56e7bb871f420beebcac1ee82481b5c7e86c098aff59df49c7"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/species_additions/pumpkaboo.json"
+hash = "8fb2e6e1fdff1a6bdad1f719754da882ff1a69131cf5656f599db76275351aa1"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/species_additions/rotom.json"
+hash = "8d903ad2cde00d309f32d96f11daaac19e0b0ac44757b16e7df1e12791b811eb"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/species_additions/runerigus.json"
+hash = "1d1bf4fe43e45eb7f1489c70efa9258ee4e559bf4e7607c4c5b893a2124a4371"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/species_additions/sableye.json"
+hash = "bd3437b6e1fde2537218c01cee3096152106d2f6e5a75524d93819abe063b4ef"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/species_additions/sandygast.json"
+hash = "d10b6662c6cdc8c8a5985294c766cfdde9ee1c625f3e4bdea36c2347ba6dbb6d"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/species_additions/shedinja.json"
+hash = "ca8d1fbb5e79710e69f600dbcc7e6a228316929a21b7e9af3d3b552301b2963e"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/species_additions/shuppet.json"
+hash = "e027b23d1cf54902a693b4dbdbc26d059ec939fadb28f297162135cdf8e4a1d5"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/species_additions/sinistcha.json"
+hash = "3a0a35098808a88e3a821823237717452d7c90d033266e1ecc255adc91b4049d"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/species_additions/sinistea.json"
+hash = "ea4a866e332e6eb4e2f85646d1d2ce8626551d6894431f0cbc7f9c59fdcba23b"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/species_additions/skeledirge.json"
+hash = "ca43bb108cb212cf2a657a96bfbfd3ac14083adfd1f489ae5f858ba1e8a1fa54"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/species_additions/spectrier.json"
+hash = "90a77e686b59d1c03ee7a48d6779dc0ad07da83748d5a8e9c9d05cee228684b4"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/species_additions/spiritomb.json"
+hash = "6d5ba1125dffe9387e69d15f22dbaa3739f97667557322730eb6aac5cad96fe5"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/species_additions/trevenant.json"
+hash = "7aeeb0581880909932d451f8a82df9c696ea416baf1f6bc36cbedeb6713f65da"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/cobblescout/species_additions/yamask.json"
+hash = "965004131821d23ab0f7f013bb77286ccfe028f275de6173bc411050730310e6"
+
+[[files]]
 file = "config/paxi/datapacks/CobbleScout/data/cobblescout/worldgen/biome/safari_desert.json"
 hash = "5bf803a388bce0f52b6d640d530d19a6f12e8213c4c408858007e5cee3be90e2"
 
@@ -1709,6 +2005,26 @@ file = "config/paxi/datapacks/CobbleScout/data/explorify/tags/worldgen/biome/has
 hash = "56b6888a9a3ae42333e594abd7378b7405d7fdf1f5e6d5bf7d11f8db69069647"
 
 [[files]]
+file = "config/paxi/datapacks/CobbleScout/data/minecraft/loot_table/chests/bastion_bridge.json"
+hash = "a292d0e71f08588a8965d8a046428c820ec440dad59aadf20bb63e55fc6b0fa1"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/minecraft/loot_table/chests/bastion_hoglin_stable.json"
+hash = "e77dc8bc6f43077c770ff41d78055233b8c7655eabcbee130de4ff4cd9eb2bab"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/minecraft/loot_table/chests/bastion_other.json"
+hash = "b20e392da835ff2c5e51a1b2a8ae82862fb5bfe8305ee5c1b19eed5610c94014"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/minecraft/loot_table/chests/bastion_treasure.json"
+hash = "705d1e84350fda3a2a81fbd55ec53304a72ed1b13fd6d1161c7e8010ed4a6b3e"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/minecraft/loot_table/chests/nether_bridge.json"
+hash = "7838c8f78609af7db174aca9db37ce740e52cbd71280f5e9d9b1e9a404e50d1f"
+
+[[files]]
 file = "config/paxi/datapacks/CobbleScout/data/minecraft/tags/function/load.json"
 hash = "82d9d23702795313478135c6687602d80cea464af5ac5f777d59f290aaeb32d9"
 
@@ -1775,6 +2091,90 @@ hash = "913125245dca6d364a3fdc5715f0bd23f58303c5d97540e8f0f819131243cb37"
 [[files]]
 file = "config/paxi/datapacks/CobbleScout/data/mmv/tags/worldgen/biome/has_structure/dark_forest_biomes.json"
 hash = "913125245dca6d364a3fdc5715f0bd23f58303c5d97540e8f0f819131243cb37"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/mns/loot_table/chests/dragon_arena/epic.json"
+hash = "7b9f3d93f8608c29b3d70ea14ee2657e2c9cbae3ca4a1da9306b47ef52eb286c"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/mns/loot_table/chests/dragon_arena/mid.json"
+hash = "711293ccb93ccf87c2b89ec67e472b15bd626c34d97808a3548425bafafcf1fb"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/mns/loot_table/chests/houses.json"
+hash = "446d7f9cb18ed82aed6dca5472f62b25751a923c86a8a8d1e8e002354a7d15dd"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/mns/loot_table/chests/large_arena/common.json"
+hash = "b4e94c6d9221e1f7582332625c256c61a670db95448da1281ebc6974b103d445"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/mns/loot_table/chests/large_arena/treasure.json"
+hash = "3da4c82657b822c0aa5e7e1b124c5e569fb76f85fb72a48063d732f7edf5564a"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/mns/loot_table/chests/mega_fortress/brewing_scraps.json"
+hash = "e6e7323d883023676bee231c9b6a22845fd7a4e447ea68ff34bdd4d410e99670"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/mns/loot_table/chests/mega_fortress/intact.json"
+hash = "627a14b9e7912f4e62309b85f86565ccf675b2412f8034e53855b293c67013e7"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/mns/loot_table/chests/mega_fortress/intact_base.json"
+hash = "d9abc0c734772ae1c42bb1c1f4cede2f6d5cb8c05e605e196c146250ace2f354"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/mns/loot_table/chests/mega_fortress/intact_gold_treasure.json"
+hash = "cb47da50917e3d5127c9c2424a98439bb68ee3ad27b71ad08aec5b2f39587d68"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/mns/loot_table/chests/mega_fortress/intact_library.json"
+hash = "376ab7957a4a959f246123f66025034329e84b6e59407b91dbec3f310ada8fbd"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/mns/loot_table/chests/mega_fortress/intact_treasure.json"
+hash = "5ecb50b05a8aeb6eccaed3fc871c9356fe99ca9ee251a7d6f5ad2ee29f8b1792"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/mns/loot_table/chests/mega_fortress/intact_uncommon.json"
+hash = "ed348fae564656bd6717d6ab7f7a1e85bcec7487bacbfef374dc3c995f796b06"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/mns/loot_table/chests/mega_fortress/ravaged.json"
+hash = "ec9b07480d425ecd3f96f83538eb702e4d0761e414e3da84eb7b45d9dd8b94cd"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/mns/loot_table/chests/mega_fortress/ravaged_treasure.json"
+hash = "e3555b803798d2ab19d02867f8eaa688067172fa76ee59eb6976af1196a22f88"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/mns/loot_table/chests/mega_fortress/ruined.json"
+hash = "f3e0d738141214a4b3242e354cce6be1980cde7d48a2ddbcdd01964831c1fb15"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/mns/loot_table/chests/mega_fortress/tnt_room.json"
+hash = "dd916cc990b9c649ced828e49816d878b00c52df33092333526b1a81c3cd9ecd"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/mns/loot_table/chests/small_arena/gold_treasure.json"
+hash = "5a09cc5fba58d6e6f05b5d5815a3f05c3a035f52b8b955038d36dc897ed0537e"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/mns/loot_table/chests/small_arena/mid.json"
+hash = "d9eb9018a9f125f315837a953637fdde361c52ef1bd05f2c4cafc2433eb93fc8"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/mns/loot_table/chests/small_arena/rare.json"
+hash = "85d65e91f15dd0d09e4ecdb701937c183463b4f5d3638331c965ab9169056310"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/mns/loot_table/chests/treasure.json"
+hash = "081d6ff8df7b93da04de4c213d9cae25ed6afee17c8bc454dd7361417418516b"
+
+[[files]]
+file = "config/paxi/datapacks/CobbleScout/data/mns/loot_table/chests/uncommon.json"
+hash = "d7f60b332b7c13e17c209f41c533a293b26401bbe48c89bb41748996cdf8d266"
 
 [[files]]
 file = "config/paxi/datapacks/CobbleScout/data/mss/tags/worldgen/biome/has_structure/birch_biomes.json"
@@ -8246,7 +8646,7 @@ hash = "da392c9743f3e5f9a714bfaaf85a5efa92b2acfeffa3ab8447cd30c2acff3e4d"
 
 [[files]]
 file = "config/rustlingspots/loot/families/netherflamme.json"
-hash = "973c313fbf03ba48e2fac9129b74a83a3327ff8ad85b18ba2a6ce02d1c8d7a75"
+hash = "157102f2d57853d0941b31b1c21ed88eab3e4ef50f2a823eaa40447e7e851193"
 
 [[files]]
 file = "config/rustlingspots/loot/families/sand.json"
@@ -8258,7 +8658,7 @@ hash = "1836413e163b9eb12f41936efb69fc35d55106c398528cb64cea5101854a299e"
 
 [[files]]
 file = "config/rustlingspots/loot/families/soulflame.json"
-hash = "8fba133525adcce3926ca914d8192d333be9120ad3c8ada76bb1f6b6e3637c7b"
+hash = "0b2c3429d51049cce72003042a3d899067acf3a3f8e5e27febc9d3c2c94f9ce4"
 
 [[files]]
 file = "config/rustlingspots/loot/families/underwater.json"
@@ -8621,8 +9021,8 @@ hash = "fe8c1a6a5f5040638518450df79df5b8b824078a36a0088b86c1fc18369424d4"
 metafile = true
 
 [[files]]
-file = "mods/cobblemon-field-investigations-1.1.0.jar"
-hash = "5f82ec882289184820256f334bfee30c7e4327bf27df26502e80b0dec3bd0c22"
+file = "mods/cobblemon-field-investigations-1.2.0.jar"
+hash = "ce5f8ae1f749019a4bb11c7d0527d3605e8963fcbaedafd383ed081dd7b7445d"
 
 [[files]]
 file = "mods/cobblemon-fight-or-flight-reborn.pw.toml"
@@ -8722,8 +9122,8 @@ file = "mods/cobblescout-pokedex-1.0.0.jar"
 hash = "0aaaafd234dae5a6e94cf9c48e250971be318162e3553337a062802cc6489809"
 
 [[files]]
-file = "mods/cobblescout-safari-1.1.5.jar"
-hash = "78c62423404b4f62622ec44ba3e01528922af768ddab6e40befca325c9f2454f"
+file = "mods/cobblescout-safari-1.1.6.jar"
+hash = "f52369a6723f68a6a2a22b47c6b0c46b9787944269d48237ff96574b220b3806"
 
 [[files]]
 file = "mods/cobbleworkers.pw.toml"

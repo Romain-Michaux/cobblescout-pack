@@ -1,0 +1,16 @@
+{
+  "target": "cobblemon:gholdengo",
+  "drops": {
+    "amount": 48,
+    "entries": [
+      {
+        "item": "cobblemon:relic_coin",
+        "quantityRange": "24-48"
+      },
+      {
+        "item": "minecraft:ghast_tear",
+        "percentage": 5.0
+      }
+    ]
+  }
+}
